@@ -1,0 +1,92 @@
+Uma universidade precisa coletar dados de seus alunos das diversas unidades e cursos para construir um sistema analítico 
+que permita o armazenamento e analisar em tempo real as notas de cada estudante, curso, calcular médias e, num futuro, 
+gerar previsões sobre as disciplinas para que ela consiga tomar decisões itens passíveis de ajustes para melhorar 
+a eficiência e produtividade dos alunos. 
+ 
+As informações passadas pela empresa contratante são:
+a.	Nome da instituição: FACULDADE PRODATA
+
+    b.	Dados dos cursos ofertados:
+    i.	ENGENHARIA DE COMPUTAÇÃO
+    1.	Código do curso: 1
+    2.	Períodos: 10
+    3.	Carga horária prevista por disciplina: até 92 horas
+    4.	Disciplinas por período: 8
+    5.	Média de alunos por turma: 50
+    ii.	CIÊNCIA DA COMPUTAÇÃO
+    1.	Código do curso: 2
+    2.	Períodos: 8
+    3.	Carga horária prevista por disciplina: até 64 horas
+    4.	Disciplinas por período: 8
+    5.	Média de alunos por turma: 62
+    iii.	SISTEMA DE INFORMAÇÕES
+    1.	Código do curso: 3
+    2.	Períodos: 8
+    3.	Carga horária prevista por disciplina: até 64 horas
+    4.	Disciplinas por período: 7
+    5.	Média de alunos por turma: 48
+    iv.	JOGOS DIGITAIS
+    1.	Código do curso: 4
+    2.	Períodos: 6
+    3.	Carga horária prevista por disciplina: até 48 horas
+    4.	Disciplinas por período: 6
+    5.	Média de alunos por turma: 32
+    v.	TECNÓLOGO EM REDES DIGITAIS
+    1.	Código do curso: 5
+    2.	Períodos: 4
+    3.	Carga horária prevista por disciplina: até 48 horas
+    4.	Disciplinas por período: 6
+    5.	Média de alunos por turma: 28
+
+c.	Dados necessários dos alunos:
+i.	Matrícula (número aleatório)
+ii.	Nome (Nome e sobrenome)
+iii.	Sexo (M | F)
+iv.	Cadastro geral da pessoa (um código único, similar ao CPF)
+v.	Data de nascimento (dd/mm/aaaa)
+vi.	E-mail para contato (nome.sobrenome@trabalhopuc.br)
+vii.	Endereço (pode ser cidade e estado)
+viii.	Telefone celular (+55 XX XXXXX-XXXX)
+ix.	Curso (código do curso)
+x.	Data de ingresso (dd/mm/aaaa)
+xi.	Data prevista de conclusão (dd/mm/aaaa)
+xii.	Data de conclusão (dd/mm/aaaa)
+xiii.	Status da matrícula (ativo | Trancado | Cancelado)
+
+    d.	Dados de disciplinas dos cursos:
+    i.	Código da disciplina (deve iniciar em 1, não pode repetir).
+    ii.	Nome da disciplina (Sugestão: busque informações sobre os cursos fornecidos acima para que os dados sejam mais coesos).
+    iii.	Tipo: Teórica | prática
+    iv.	Nota de corte: 70 pontos
+    v.	Carga horária prevista: Gerar um valor aleatório de acordo com a carga horária prevista por disciplina. O número deve ser SEMPRE maior que 16 horas e menor que a carga horária prevista por disciplina).
+    vi.	Frequência mínima (deve ser equivalente à 75% da carga horária)
+
+e.	Dados de relacionamento entre alunos, cursos e disciplinas:
+i.	Código do curso
+ii.	Código da disciplina
+iii.	Período (mm/aaaa)
+iv.	Matrícula do aluno
+v.	Nota do aluno
+vi.	Frequência do aluno
+vii.	Status (aprovado | reprovado | exame especial)
+viii.	Motivo reprovação (nota | frequência)
+
+    f.	Dados de atividades realizadas pelo aluno:
+    i.	Matrícula do aluno
+    ii.	Código do curso
+    iii.	Código da disciplina
+    iv.	Período
+    v.	Código da atividade (número sequencial de acordo com a atividade)
+    vi.	Nome da atividade (Exercício | Trabalho | Avaliação)
+    vii.	Valor da atividade
+    viii.	Nota obtida pelo aluno
+
+    
+    Para facilitar o desenvolvimento desse trabalho, considere que:
+    •	Um aluno não pode estar matriculado simultaneamente em mais de um curso, mas podem fazer mais de um curso (para cada ingresso, um novo código de matrícula deverá ser gerado);
+    •	Um aluno não pode repetir o mesmo curso;
+    •	Considere que cada período contenha entre 6 e 10 disciplinas (precisa estar nesse intervalo).
+    •	A idade mínima para um aluno ingressar na universidade é a partir dos 18 anos;
+    •	O aluno não pode trancar/cancelar uma disciplina, mas sim, o seu curso como um todo.
+    •	A nota das atividades deve ser um valor inteiro. A soma do valor das atividades de cada disciplina não pode ultrapassar 100 pontos.
+    •	O nome das atividades deve ser sucedido por X, onde X indica o código da atividade (exemplo: Atividade 1, Prova 2, Trabalho 3...)
