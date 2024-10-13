@@ -24,7 +24,7 @@ class Curso:
         lista = []
         lista.append(Curso("Engenharia de Computação", 1, 10, 92, 8, 50))
         lista.append(Curso("Ciencia da Computação", 2, 8, 64, 8, 62))
-        lista.append(Curso("Sistemas de Informações", 3, 8, 64, 7, 48))
+        lista.append(Curso("Sistemas de Informação", 3, 8, 64, 7, 48))
         lista.append(Curso("Jogos Digitais", 4, 6, 48, 6, 32))
         lista.append(Curso("Tecnologo Rede Digitais", 5, 4, 48, 6, 28))
         return lista

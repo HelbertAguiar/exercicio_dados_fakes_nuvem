@@ -1,0 +1,501 @@
+﻿nome_completo,sexo,cpf,data_nascimento,email,telefone,endereco_cidade,endereco_estado,curso_matricula_aluno,curso_codigo,curso_data_ingresso,curso_data_prevista_conclusao,curso_data_conclusao,curso_situacao_matricula
+Maria Flor Viana,f,849.715.603-00,2005-03-08,heloisa61@example.org,+55 32 92404-2737,Nunes de Mendes,Rondônia,461333,2,2023-12-02,2026-07-19,2026-07-19,ativo
+Dr. João Guilherme Novaes,m,376.495.128-19,1998-10-20,nicolelopes@example.com,+55 86 99218-5432,Cassiano,Pará,275111,3,2023-01-31,2026-12-11,2026-12-11,ativo
+Thales Monteiro,m,089.562.431-15,2005-08-11,davi-luizda-mata@example.com,+55 31 92180-1466,da Cruz,Espírito Santo,467952,1,2023-11-14,2026-03-11,2026-03-11,ativo
+Murilo Martins,m,193.254.670-70,1997-12-09,cavalcantirenan@example.org,+55 48 96928-6469,Cavalcanti do Norte,Rio Grande do Sul,234916,4,2024-08-11,2026-12-28,2026-12-28,ativo
+Sr. Antony da Paz,m,301.958.762-02,1987-05-05,ifreitas@example.org,+55 50 91391-1568,Borges,Rio Grande do Sul,193818,3,2024-09-27,2026-03-05,2026-03-05,trancado
+Lucas Lima,m,375.869.401-93,1992-02-03,sabrinacastro@example.org,+55 47 98548-3776,Souza,Ceará,257675,4,2023-01-10,2026-03-10,2026-03-10,ativo
+Sra. Mariane da Mata,f,130.524.967-43,1987-04-13,agatha77@example.com,+55 64 94560-1085,Rodrigues de Borges,Tocantins,556406,3,2023-06-21,2025-10-24,2025-10-24,ativo
+Ágatha Pereira,f,731.260.489-78,1999-06-23,franciscocosta@example.org,+55 83 91787-8202,Montenegro,Amapá,392900,5,2023-01-30,2026-01-07,2026-01-07,ativo
+Dr. Vitor Hugo Fogaça,m,506.134.782-07,1992-08-03,klima@example.org,+55 46 93140-3873,Ribeiro Paulista,Bahia,920422,5,2023-07-11,2025-08-07,2025-08-07,ativo
+Bianca Carvalho,f,385.964.710-57,2003-05-06,pedro94@example.com,+55 95 93914-3546,da Rocha Verde,Rio Grande do Sul,431465,3,2023-10-24,2025-03-31,2025-03-31,trancado
+Mariane Aparecida,f,468.392.071-96,1992-03-30,fernando94@example.net,+55 44 91166-6874,Aragão,Pará,781144,1,2023-04-24,2026-05-11,2026-05-11,trancado
+Paulo Vasconcelos,m,123.058.647-44,1984-03-07,mda-mota@example.org,+55 83 92311-1105,Dias,Minas Gerais,527386,4,2023-05-22,2025-11-04,2025-11-04,ativo
+Davi Luiz Garcia,m,510.296.478-01,1999-11-26,camposcecilia@example.net,+55 72 96321-3016,Freitas,Rondônia,817214,2,2023-11-16,2026-11-09,2026-11-09,ativo
+Léo Nascimento,m,352.041.876-26,1988-12-18,vinicius14@example.com,+55 24 96316-3258,Sampaio,Espírito Santo,934402,4,2023-01-13,2026-08-11,2026-08-11,ativo
+Marina Cirino,f,028.793.145-50,2004-08-02,lucca55@example.org,+55 11 97485-1320,Pimenta da Mata,São Paulo,519938,1,2024-04-10,2025-03-25,2025-03-25,ativo
+Rael Silva,m,263.410.895-89,1999-09-08,da-motahenry-gabriel@example.net,+55 77 98922-5704,Fogaça,Ceará,461173,5,2024-02-16,2024-12-28,2024-12-28,cancelado
+Dr. Davi Luiz Moreira,m,280.516.973-59,1990-02-15,casa-grandeleo@example.net,+55 94 95941-8056,Novais,Alagoas,220980,5,2023-12-10,2025-12-05,2025-12-05,ativo
+João Guilherme Fonseca,m,810.495.726-02,2004-09-04,nborges@example.org,+55 71 94759-4416,Lima dos Dourados,Distrito Federal,403759,3,2023-10-29,2025-04-01,2025-04-01,ativo
+Daniela Souza,f,587.120.436-80,1990-04-23,imarques@example.net,+55 40 92238-7592,Sampaio da Prata,Sergipe,721188,3,2024-03-23,2025-03-18,2025-03-18,ativo
+Mariane Guerra,f,306.517.429-43,1993-02-28,yagovasconcelos@example.com,+55 81 92836-3519,Barbosa da Serra,Rondônia,814593,5,2024-03-27,2026-09-22,2026-09-22,cancelado
+Alexandre Moraes,m,849.703.156-39,1992-10-08,ribeirocaleb@example.com,+55 53 97434-8141,Nunes,Minas Gerais,175723,2,2024-04-25,2025-09-10,2025-09-10,ativo
+Luara Pereira,f,293.187.546-55,1995-07-13,antony41@example.net,+55 25 94184-1824,Pinto do Galho,Roraima,999356,3,2024-09-25,2025-11-19,2025-11-19,ativo
+Caroline Rocha,f,392.568.147-73,1981-08-30,opereira@example.net,+55 28 96284-1464,Rios das Flores,Ceará,857346,5,2023-04-28,2026-01-07,2026-01-07,ativo
+Emanuella Campos,f,273.594.608-83,2000-08-21,almeidamateus@example.com,+55 42 99928-8534,Aparecida dos Dourados,Rio Grande do Norte,854558,1,2024-07-25,2026-11-18,2026-11-18,ativo
+André da Mata,m,042.538.791-79,2003-12-07,saisabella@example.com,+55 36 98595-2155,Leão do Campo,Tocantins,882548,2,2024-06-30,2026-09-25,2026-09-25,ativo
+Mariane Vasconcelos,f,578.296.304-29,1983-07-15,haragao@example.com,+55 71 95135-1145,Pimenta,Piauí,409781,1,2024-10-04,2026-02-28,2026-02-28,ativo
+João Lucas Rodrigues,m,174.096.823-96,1989-10-07,viniciusramos@example.net,+55 43 91453-5895,Cardoso da Prata,Roraima,690921,3,2024-08-06,2025-05-10,2025-05-10,ativo
+Thomas Martins,m,726.805.193-02,2002-07-07,maria-julia45@example.org,+55 83 99190-9188,Rios do Oeste,Sergipe,856926,3,2023-02-23,2025-07-20,2025-07-20,ativo
+Yago Silveira,m,183.429.650-15,1999-05-17,fcaldeira@example.com,+55 46 99553-2365,Siqueira do Amparo,Amapá,781140,1,2024-04-26,2025-01-18,2025-01-18,ativo
+Théo Ramos,m,096.475.328-65,2002-12-23,vitor67@example.com,+55 95 95529-8540,Siqueira da Serra,Rondônia,495793,4,2023-01-12,2026-03-07,2026-03-07,ativo
+Davi Miguel Mendes,m,426.718.390-22,1981-01-12,maria-eduarda59@example.com,+55 59 98819-5741,Rocha de Macedo,Paraíba,335437,1,2023-03-14,2025-01-17,2025-01-17,ativo
+Dra. Mirella da Conceição,f,329.506.178-59,2005-07-24,cardosoayla@example.net,+55 92 92674-3687,Moura,Pernambuco,817898,5,2023-06-21,2025-06-06,2025-06-06,cancelado
+Davi Lucca Santos,m,045.189.723-41,1994-11-16,da-motaleonardo@example.net,+55 35 91705-9331,Almeida do Galho,Tocantins,244663,2,2024-03-20,2025-03-06,2025-03-06,ativo
+Ian Fernandes,m,059.243.617-99,2002-01-06,lara44@example.net,+55 30 92556-7410,Moreira,Paraíba,396831,2,2023-04-05,2026-04-08,2026-04-08,ativo
+Sra. Maria Sophia Siqueira,f,164.529.708-01,1994-06-13,elisa91@example.com,+55 36 96610-2022,Machado,Santa Catarina,225151,5,2024-03-17,2025-06-05,2025-06-05,ativo
+Oliver da Cunha,m,895.473.261-55,2004-03-30,costeladavi-miguel@example.net,+55 13 91426-8567,Macedo de Minas,Tocantins,215857,1,2024-02-15,2025-06-16,2025-06-16,trancado
+Luan das Neves,m,315.896.472-46,1999-05-04,joaoguerra@example.org,+55 10 92139-5214,da Mota,Ceará,146871,5,2023-10-27,2025-11-02,2025-11-02,ativo
+Dr. Bryan Albuquerque,m,257.639.810-30,1982-01-21,cardosotheo@example.net,+55 38 98094-4009,da Rocha do Campo,Sergipe,314528,5,2023-10-18,2026-01-28,2026-01-28,ativo
+Sr. Cauê Barros,m,058.396.274-29,1995-04-12,luara06@example.net,+55 55 95038-5676,Costa do Oeste,Acre,135253,4,2024-09-25,2026-08-31,2026-08-31,ativo
+Lara Campos,f,904.756.123-61,1997-08-09,mnunes@example.com,+55 59 97318-9029,Freitas de Barros,Ceará,694803,3,2023-07-02,2025-09-11,2025-09-11,ativo
+Maria Laura Novaes,f,234.685.971-00,1998-01-23,calebelima@example.com,+55 38 97438-7102,Cirino,Rio Grande do Norte,853888,5,2024-06-27,2026-07-23,2026-07-23,trancado
+Sr. Lucas Pastor,m,910.586.273-68,1985-01-12,erick88@example.org,+55 84 93920-5426,da Costa do Amparo,Goiás,536479,3,2023-10-08,2026-04-10,2026-04-10,ativo
+Brenda Barbosa,f,184.795.632-73,1982-01-10,maya81@example.net,+55 54 99623-4502,Guerra,Rio Grande do Sul,247619,3,2023-07-18,2026-05-29,2026-05-29,ativo
+Eloah Guerra,f,316.984.075-48,1994-01-17,caue53@example.org,+55 11 92540-4869,Moreira de Minas,Acre,582634,5,2023-03-07,2025-06-08,2025-06-08,ativo
+Davi Lucas Albuquerque,m,795.401.862-85,1981-02-07,benicioda-cunha@example.net,+55 30 91140-8888,da Costa de Vieira,Ceará,285508,3,2023-09-02,2025-02-19,2025-02-19,trancado
+Asafe Vasconcelos,m,890.623.754-56,1989-12-23,gnogueira@example.net,+55 19 97889-3273,Santos,Pará,163564,4,2024-03-06,2025-12-23,2025-12-23,ativo
+Theodoro Pastor,m,645.180.392-89,1988-09-24,giovannaabreu@example.com,+55 53 93101-4118,Guerra,Ceará,739182,4,2024-01-07,2026-09-06,2026-09-06,ativo
+Caio Viana,m,516.702.894-94,1986-04-19,pmonteiro@example.org,+55 51 92928-6036,Sampaio,São Paulo,129721,3,2024-02-09,2026-08-20,2026-08-20,ativo
+Yan Azevedo,m,134.879.602-22,1981-06-19,cassianoana-livia@example.com,+55 33 99558-6681,da Conceição,Goiás,196757,4,2023-06-08,2026-08-25,2026-08-25,ativo
+Laura Silveira,f,170.624.598-01,1980-04-15,mirella19@example.org,+55 38 96201-1328,Castro,Bahia,813277,4,2023-08-29,2026-07-21,2026-07-21,ativo
+Yasmin Sampaio,f,895.643.710-66,1985-05-25,leticiamacedo@example.net,+55 38 91020-4255,Lopes do Sul,Piauí,320106,4,2024-06-28,2026-09-27,2026-09-27,ativo
+Maria Flor Moreira,f,603.489.715-75,1994-10-20,martinsgustavo@example.org,+55 55 93645-6692,Costa,Amazonas,515300,4,2023-03-14,2025-02-01,2025-02-01,ativo
+Srta. Isabela Lopes,f,530.714.862-35,1982-03-07,vinicius34@example.net,+55 44 94542-9973,Souza de das Neves,Maranhão,200333,4,2024-01-20,2025-06-23,2025-06-23,cancelado
+Ana Júlia Novaes,f,956.341.780-10,1998-04-26,usa@example.org,+55 57 95033-4060,Ferreira do Oeste,Ceará,856969,2,2024-06-28,2026-02-22,2026-02-22,ativo
+Vitor Hugo Cavalcante,m,817.496.025-20,1983-04-23,rcamara@example.net,+55 89 94849-3045,Moreira dos Dourados,Amapá,195784,2,2024-02-13,2025-07-28,2025-07-28,ativo
+Joana Macedo,f,507.683.241-90,2001-01-06,amelo@example.com,+55 67 98622-2060,Marques,Amapá,341285,3,2023-08-17,2025-11-21,2025-11-21,ativo
+Srta. Ana Liz Nunes,f,950.742.836-47,1999-09-28,cardosolivia@example.net,+55 12 92751-8528,da Rocha,Rio Grande do Norte,671172,3,2024-03-20,2026-03-25,2026-03-25,ativo
+Laís Vieira,f,590.348.261-98,1989-03-26,caldeiraravy@example.org,+55 51 95669-6848,Rios de da Cunha,Rio Grande do Sul,389235,4,2023-11-13,2026-12-22,2026-12-22,ativo
+Isaque da Conceição,m,368.129.570-03,1998-05-26,ryan74@example.org,+55 15 95014-7392,Barros Grande,Maranhão,862281,5,2023-01-07,2026-03-08,2026-03-08,ativo
+Paulo da Rosa,m,640.259.173-43,2002-06-27,carolina69@example.org,+55 14 91805-1994,Fogaça,Acre,245023,2,2023-11-03,2026-11-30,2026-11-30,ativo
+Dr. Carlos Eduardo Siqueira,m,192.738.056-12,1998-10-29,sarah69@example.com,+55 65 98726-3091,Pinto de Minas,Rio Grande do Sul,757368,2,2024-04-08,2025-12-08,2025-12-08,ativo
+Isaque Macedo,m,103.842.657-07,2001-11-21,vargaspedro-lucas@example.com,+55 33 92541-2327,da Cunha,Amapá,742619,5,2023-03-10,2026-11-17,2026-11-17,ativo
+Natália Montenegro,f,173.586.420-07,1982-05-04,thales55@example.com,+55 42 98789-3680,da Mata,Rio Grande do Norte,550161,2,2024-08-15,2026-09-27,2026-09-27,ativo
+Benjamin Gonçalves,m,370.896.254-00,1995-07-20,bernardo43@example.com,+55 22 94014-7391,Azevedo da Serra,Amapá,734126,4,2023-03-27,2026-12-01,2026-12-01,cancelado
+Sophie Jesus,f,517.290.438-79,2001-08-18,aylapimenta@example.net,+55 54 98280-8332,Moreira,Rondônia,828612,3,2024-05-09,2025-06-21,2025-06-21,ativo
+Elisa da Mata,f,986.574.320-56,1981-09-11,lcastro@example.org,+55 26 96263-4865,Costela do Norte,Rio de Janeiro,847926,3,2024-03-10,2024-12-15,2024-12-15,ativo
+Sr. Pedro Brito,m,162.580.349-42,1995-06-11,livia80@example.com,+55 48 97634-1220,Pereira,Rio de Janeiro,912420,1,2023-02-03,2026-12-06,2026-12-06,ativo
+Sara Porto,f,936.475.820-00,1986-03-10,da-cunhamaria-julia@example.net,+55 27 93684-5649,Costa,Distrito Federal,906343,4,2024-05-02,2025-09-29,2025-09-29,ativo
+Catarina Cavalcanti,f,124.970.638-69,2000-08-02,oliveiralunna@example.net,+55 44 95810-5434,Peixoto de Ribeiro,Mato Grosso,395279,1,2024-02-13,2025-04-21,2025-04-21,ativo
+Maya Câmara,f,670.249.513-70,2003-11-22,aylla17@example.org,+55 86 93121-3400,Novais,Rondônia,522484,1,2024-07-31,2025-06-30,2025-06-30,trancado
+Rael Jesus,m,125.760.893-21,1986-12-26,ana-beatriz44@example.com,+55 82 98675-8854,Lima Grande,Mato Grosso do Sul,952339,4,2023-11-01,2025-02-24,2025-02-24,ativo
+Ana Lívia Brito,f,984.067.521-49,1981-12-06,carolinada-luz@example.com,+55 13 95413-4984,Duarte das Flores,Distrito Federal,785741,5,2024-09-29,2025-07-02,2025-07-02,cancelado
+Anthony Montenegro,m,203.514.869-33,2004-09-23,luiz-henrique14@example.com,+55 44 99724-7624,Dias da Serra,Tocantins,112864,1,2023-09-24,2025-05-08,2025-05-08,ativo
+Rafaela Rodrigues,f,502.718.963-02,1986-01-02,benjamin99@example.com,+55 64 93340-3403,Lopes de Minas,Amapá,421501,4,2024-03-09,2026-05-21,2026-05-21,trancado
+Théo Novais,m,196.325.478-37,1988-12-10,heitor11@example.com,+55 13 96601-5172,Rocha,São Paulo,519099,5,2023-04-28,2026-02-02,2026-02-02,trancado
+Joana Souza,f,568.712.409-85,2001-12-26,spires@example.org,+55 66 95294-5840,Fonseca,Alagoas,340117,2,2024-09-25,2026-02-17,2026-02-17,ativo
+André Cassiano,m,304.852.917-97,1982-09-18,qsouza@example.org,+55 59 95284-3900,da Cunha de Nogueira,Rio de Janeiro,770719,5,2024-01-24,2025-05-22,2025-05-22,ativo
+Henry Gabriel Peixoto,m,364.025.871-17,2002-08-05,goncalvesliam@example.net,+55 68 96219-9641,Costela de Peixoto,Distrito Federal,260684,5,2024-07-30,2026-12-26,2026-12-26,ativo
+Isaque Garcia,m,371.298.560-68,2000-12-31,felipevargas@example.org,+55 52 99706-9563,Marques de Pires,Rio de Janeiro,726364,4,2024-08-11,2026-09-26,2026-09-26,ativo
+Otto Aragão,m,509.618.473-01,1985-05-24,ycavalcanti@example.org,+55 25 94335-2286,Nunes das Flores,Roraima,185163,1,2024-08-22,2026-02-12,2026-02-12,ativo
+Guilherme Brito,m,492.681.073-50,1999-01-24,maria-clarateixeira@example.net,+55 42 99504-7075,Correia,Pernambuco,688072,2,2024-06-23,2026-11-26,2026-11-26,ativo
+Sophia Dias,f,516.320.987-68,1983-08-07,maria-ceciliafonseca@example.net,+55 52 94831-6008,Pinto,São Paulo,788237,5,2024-06-26,2025-03-12,2025-03-12,ativo
+Sr. Henry Gabriel Campos,m,438.067.951-93,1985-09-24,theodorocardoso@example.net,+55 42 97040-2629,Aragão Grande,São Paulo,186175,4,2023-12-03,2026-03-08,2026-03-08,ativo
+Sr. Mateus Garcia,m,942.035.768-65,1995-04-18,almeidastephany@example.com,+55 87 98512-2363,Garcia,Amazonas,807768,3,2024-03-23,2025-07-05,2025-07-05,ativo
+Gael Sá,m,178.506.429-02,2004-08-22,luanavasconcelos@example.net,+55 40 94475-9521,Fonseca de Monteiro,Rondônia,811346,2,2023-07-12,2026-08-18,2026-08-18,ativo
+João Miguel Moreira,m,416.835.207-26,1997-04-23,clarice32@example.com,+55 50 97450-1302,Fernandes Grande,Bahia,860977,2,2024-10-03,2026-09-10,2026-09-10,ativo
+Dr. Luiz Otávio Melo,m,430.195.627-16,2003-10-15,garcialeandro@example.com,+55 22 97731-1085,Freitas de Pereira,Bahia,490297,3,2024-07-26,2026-08-14,2026-08-14,ativo
+Danilo Santos,m,745.213.896-19,1997-02-12,gabriel11@example.org,+55 82 94121-7545,Pires,Mato Grosso,697821,3,2024-02-16,2025-09-10,2025-09-10,ativo
+Maria Cecília Caldeira,f,384.795.021-50,1993-11-06,arthur-miguel92@example.net,+55 39 93140-2275,Siqueira de Dias,Roraima,896276,5,2023-12-20,2026-07-08,2026-07-08,ativo
+Bernardo Cavalcanti,m,815.790.346-75,1990-02-15,aylla91@example.com,+55 83 91878-6892,Pereira de Duarte,São Paulo,852338,1,2024-05-29,2025-01-23,2025-01-23,ativo
+Josué Albuquerque,m,185.629.437-46,1984-03-02,lopesmaria-flor@example.org,+55 56 98370-8702,Câmara,Espírito Santo,894315,1,2024-04-03,2026-02-03,2026-02-03,ativo
+Raul Garcia,m,918.502.367-12,1999-11-01,costaemilly@example.org,+55 93 92523-4316,Moraes de Minas,Minas Gerais,636278,3,2024-07-11,2025-02-26,2025-02-26,ativo
+Sr. Henry da Cunha,m,190.547.382-60,1993-08-11,limaluiz-gustavo@example.net,+55 22 92904-7353,Pires da Praia,Sergipe,415295,2,2023-10-20,2026-03-25,2026-03-25,ativo
+Eduardo Rodrigues,m,032.487.691-22,2005-02-28,umendonca@example.net,+55 93 95724-1473,Cirino de Farias,Rio Grande do Sul,292553,1,2023-02-26,2026-05-10,2026-05-10,ativo
+Maria Luísa da Luz,f,017.328.564-35,1990-03-23,ngoncalves@example.net,+55 72 91412-3218,Castro do Oeste,Pernambuco,495416,1,2024-07-17,2026-10-16,2026-10-16,trancado
+Evelyn Guerra,f,729.314.680-96,1998-02-15,luiz-fernando46@example.org,+55 68 94740-5669,Caldeira do Campo,Rio Grande do Sul,192095,3,2024-02-24,2025-02-10,2025-02-10,ativo
+Nicolas Fonseca,m,502.174.689-85,1991-07-28,larissa10@example.org,+55 51 98576-8561,Cunha do Galho,Mato Grosso,948393,5,2023-04-28,2024-12-06,2024-12-06,ativo
+Dr. Enrico Viana,m,852.407.163-07,1994-07-24,antonio02@example.com,+55 69 95153-3506,Rios do Norte,Maranhão,443855,4,2024-08-17,2026-07-01,2026-07-01,ativo
+Matteo Albuquerque,m,526.941.780-49,1986-10-20,fsales@example.org,+55 61 95211-1627,Freitas de Rocha,Rio de Janeiro,791747,3,2023-03-30,2025-07-07,2025-07-07,ativo
+Otávio Fogaça,m,937.408.521-60,1983-04-15,rodriguesyan@example.org,+55 71 96430-9971,Garcia da Mata,Pernambuco,526706,2,2023-08-10,2026-01-24,2026-01-24,ativo
+Benicio Rios,m,150.867.423-07,2000-03-31,kevin31@example.org,+55 56 93541-1273,Alves,Rondônia,932994,5,2024-04-16,2025-09-12,2025-09-12,ativo
+Dra. Isis Marques,f,982.701.543-50,2001-02-04,siqueiraantonio@example.net,+55 49 99059-3490,Pacheco,Piauí,448517,1,2024-06-12,2025-08-08,2025-08-08,ativo
+Alice Cassiano,f,032.954.718-60,1983-06-08,danilovieira@example.org,+55 61 91023-1213,Costela do Campo,Goiás,925294,1,2023-08-20,2026-08-30,2026-08-30,ativo
+Srta. Heloísa Mendonça,f,710.345.698-48,2003-12-10,peixotomathias@example.com,+55 59 91108-5672,Duarte,Paraíba,368505,5,2023-10-15,2026-04-03,2026-04-03,ativo
+Srta. Aurora Câmara,f,728.946.031-69,2003-02-16,qbarros@example.org,+55 89 99527-9062,da Paz,Mato Grosso,884082,3,2023-03-29,2026-05-17,2026-05-17,trancado
+Eloá Lima,f,862.315.704-44,1996-03-05,kevinmarques@example.com,+55 92 96612-9963,da Rosa de Nogueira,Santa Catarina,414619,3,2024-07-05,2025-09-20,2025-09-20,ativo
+Thales Fogaça,m,536.194.782-28,2002-10-15,yasmin15@example.net,+55 35 98627-2873,Silva do Amparo,Goiás,962788,5,2024-08-25,2025-06-05,2025-06-05,ativo
+Asafe Oliveira,m,905.742.368-56,1993-01-29,zda-costa@example.com,+55 74 99440-3994,Santos,Pará,284886,5,2023-06-29,2025-07-11,2025-07-11,ativo
+Srta. Cecília Caldeira,f,412.078.963-22,1991-03-29,antonio89@example.net,+55 58 97907-8322,Fernandes,Bahia,682825,3,2024-05-24,2026-08-03,2026-08-03,ativo
+Maysa Almeida,f,380.971.546-84,1990-02-21,ujesus@example.com,+55 22 94745-6848,Dias,Minas Gerais,373010,5,2024-02-06,2026-10-11,2026-10-11,ativo
+Lara da Rosa,f,036.142.897-96,1981-02-01,borgesrafael@example.org,+55 26 99244-2174,Almeida,São Paulo,763885,5,2024-02-02,2025-11-26,2025-11-26,ativo
+Eduarda Cavalcante,f,367.429.801-50,1992-04-07,anthonyporto@example.org,+55 38 98285-9209,Borges de Goiás,Rio de Janeiro,289624,5,2023-05-12,2025-11-30,2025-11-30,ativo
+Otávio Novaes,m,173.659.024-34,1991-09-16,bryanmoura@example.com,+55 69 96999-9453,da Luz de Minas,Piauí,389234,3,2023-10-09,2025-08-10,2025-08-10,ativo
+Dr. Enrico Moura,m,728.365.901-30,2004-11-12,lais55@example.org,+55 34 96899-8678,Costa do Amparo,Alagoas,769544,5,2023-06-30,2025-06-12,2025-06-12,ativo
+Letícia Castro,f,748.520.693-10,1980-11-05,mirellacampos@example.org,+55 32 94956-3779,Machado,Rio de Janeiro,998518,1,2023-10-20,2024-12-17,2024-12-17,ativo
+Maitê Ribeiro,f,539.481.276-46,1981-10-01,maria-luisa41@example.com,+55 40 93286-6672,Nascimento,Mato Grosso,179309,5,2024-05-31,2026-05-13,2026-05-13,ativo
+Sra. Ana Julia Santos,f,074.528.391-88,2000-11-03,zcavalcanti@example.org,+55 92 97578-2477,Montenegro do Norte,Minas Gerais,479424,5,2024-04-07,2026-02-12,2026-02-12,cancelado
+Eduardo Porto,m,978.401.563-39,1988-06-09,diegogarcia@example.org,+55 41 95922-9356,da Mota,Goiás,983910,2,2024-02-06,2025-06-22,2025-06-22,ativo
+Ágatha Teixeira,f,348.125.607-80,1991-06-25,camposantonio@example.org,+55 40 92415-2399,Pires,Minas Gerais,705491,5,2023-11-30,2026-11-13,2026-11-13,ativo
+Rafaela Brito,f,164.258.973-09,2000-01-27,da-luznoah@example.org,+55 75 93006-5491,Souza da Prata,Paraíba,325713,5,2023-05-26,2025-09-09,2025-09-09,ativo
+Pietra Novais,f,891.365.704-00,1990-09-19,maria-sophiacunha@example.com,+55 76 94930-8300,Lima do Campo,Santa Catarina,522190,2,2024-09-26,2026-08-13,2026-08-13,ativo
+Benicio Casa Grande,m,361.807.529-40,1991-06-06,arthur-gabriel40@example.com,+55 92 93088-6963,Aparecida,Acre,168492,2,2023-04-25,2025-04-22,2025-04-22,cancelado
+Fernanda Vieira,f,324.518.760-26,1996-10-13,da-mataisabelly@example.net,+55 75 99463-6609,Teixeira Paulista,Mato Grosso,525493,2,2023-08-08,2025-01-10,2025-01-10,ativo
+Sra. Caroline Guerra,f,213.478.950-60,1999-04-24,juliana24@example.org,+55 53 95896-9541,Cirino,Distrito Federal,297326,1,2024-10-03,2024-12-19,2024-12-19,ativo
+Breno da Costa,m,935.827.064-00,1985-05-16,ejesus@example.com,+55 75 93908-8368,Cavalcante da Prata,Distrito Federal,560753,5,2023-03-07,2025-04-15,2025-04-15,ativo
+Sra. Ágatha Vieira,f,635.894.720-65,2002-02-19,borgescamila@example.net,+55 55 93066-7543,da Costa da Serra,Rio Grande do Norte,811052,2,2024-07-28,2026-09-08,2026-09-08,ativo
+Mirella Duarte,f,481.095.763-20,1985-12-09,mirellasales@example.net,+55 78 98366-5390,Abreu Verde,Distrito Federal,648005,4,2024-04-15,2026-10-22,2026-10-22,ativo
+Maria Isis Gomes,f,190.628.354-06,1989-06-27,aparecidaaugusto@example.com,+55 26 95772-3716,das Neves de Carvalho,Tocantins,779349,2,2023-06-04,2025-05-16,2025-05-16,ativo
+Ravi Moura,m,450.632.917-16,1994-11-09,novaesgael@example.net,+55 88 94931-2187,Cassiano de Moreira,Paraíba,270865,1,2024-07-21,2025-03-16,2025-03-16,ativo
+Dr. Vicente Garcia,m,580.329.641-42,1982-04-21,raelazevedo@example.com,+55 72 91633-7232,Castro,Paraíba,323255,5,2024-04-04,2026-07-16,2026-07-16,ativo
+Aurora Albuquerque,f,287.109.643-04,1997-05-05,fogacamateus@example.com,+55 80 94485-7603,Sousa da Serra,Rondônia,395623,4,2023-06-07,2025-01-30,2025-01-30,ativo
+Ana Castro,f,754.298.361-09,1998-04-28,gvargas@example.com,+55 57 92482-5427,Moura,Amazonas,398962,3,2023-07-16,2024-12-15,2024-12-15,ativo
+Maria Júlia Vargas,f,290.163.457-52,1984-07-03,fpeixoto@example.org,+55 52 96212-7441,Novaes,Acre,911461,5,2024-08-08,2025-01-17,2025-01-17,ativo
+Sra. Maria Liz Teixeira,f,519.204.376-06,1985-02-27,bfreitas@example.net,+55 14 95597-8442,Sales de Castro,Mato Grosso do Sul,784723,2,2024-02-15,2026-03-17,2026-03-17,cancelado
+Sabrina Andrade,f,529.734.018-79,1985-12-17,cauapacheco@example.net,+55 67 99495-7058,Araújo do Galho,Paraná,755129,3,2023-12-22,2026-12-04,2026-12-04,ativo
+Lorenzo Nascimento,m,687.390.425-29,2005-05-09,da-rosayan@example.net,+55 54 98359-1462,Barros,Distrito Federal,424750,5,2023-09-09,2026-04-25,2026-04-25,ativo
+Dra. Luara da Cruz,f,864.953.270-56,2000-07-07,catarinapeixoto@example.com,+55 18 91368-9409,Sampaio,Pernambuco,256896,1,2024-01-02,2026-03-01,2026-03-01,ativo
+Ana Beatriz Souza,f,631.079.852-95,1985-05-10,xaparecida@example.net,+55 43 91796-9264,Sales Verde,Amazonas,477228,1,2024-07-31,2025-06-25,2025-06-25,ativo
+Benjamin Alves,m,398.651.702-21,1995-09-19,silvarael@example.com,+55 95 91939-2061,Freitas de Borges,Sergipe,419996,5,2024-09-25,2024-12-29,2024-12-29,ativo
+Sr. Luiz Henrique Azevedo,m,039.465.782-92,1992-12-31,riosbianca@example.com,+55 40 94991-6170,Caldeira do Norte,Amapá,144430,2,2024-02-27,2025-08-19,2025-08-19,ativo
+Dr. Theo Rodrigues,m,093.625.148-42,1992-02-09,dalves@example.org,+55 64 92334-1716,Cirino de Vasconcelos,Sergipe,813371,4,2023-11-04,2025-01-15,2025-01-15,ativo
+Hellena Melo,f,517.620.934-99,1997-09-28,riosheloisa@example.net,+55 60 91280-8011,Pastor dos Dourados,Acre,703954,2,2023-06-07,2026-07-29,2026-07-29,ativo
+Emanuelly da Luz,f,126.745.098-30,1997-01-14,bruna87@example.org,+55 95 91342-9831,Ribeiro,Acre,242469,5,2024-02-11,2025-10-18,2025-10-18,ativo
+Diego Correia,m,620.581.374-26,1980-06-06,rochaisabel@example.com,+55 65 98022-8208,Barbosa de Montenegro,Goiás,712173,4,2023-05-24,2025-12-06,2025-12-06,ativo
+Gustavo Pastor,m,821.470.935-05,1980-03-10,tmarques@example.com,+55 27 91345-2179,Correia,Minas Gerais,787892,3,2024-04-02,2026-03-27,2026-03-27,ativo
+Renan Cirino,m,450.721.689-30,1984-12-07,vporto@example.net,+55 46 96612-3389,Ribeiro,Paraná,785480,2,2024-08-14,2025-08-16,2025-08-16,ativo
+Aurora da Paz,f,305.487.269-65,1995-01-29,dalmeida@example.com,+55 77 93039-4700,das Neves,Piauí,433319,3,2023-10-07,2026-07-02,2026-07-02,ativo
+Theo Pacheco,m,230.957.684-00,1986-08-12,udias@example.net,+55 33 92541-2699,Caldeira,Rondônia,328033,2,2024-01-26,2025-04-06,2025-04-06,ativo
+Bento Nunes,m,596.143.872-46,1985-05-27,almeidajade@example.org,+55 38 94269-9671,da Mota de Novaes,Sergipe,524757,5,2023-06-19,2025-10-04,2025-10-04,ativo
+Dr. Benjamim Leão,m,413.290.865-89,1987-06-06,nascimentocalebe@example.net,+55 86 96006-4464,Azevedo do Campo,Distrito Federal,817024,5,2024-06-15,2026-02-16,2026-02-16,ativo
+Milena Leão,f,312.756.940-80,1993-12-01,ada-conceicao@example.org,+55 57 97741-3702,Machado,Ceará,199426,1,2024-07-19,2025-08-20,2025-08-20,trancado
+Yasmin Nunes,f,981.476.320-96,2005-07-02,vasconcelosarthur@example.net,+55 39 92255-8051,Castro,São Paulo,204881,2,2023-09-06,2026-03-26,2026-03-26,ativo
+Luiz Otávio Monteiro,m,879.201.364-31,1991-01-21,wnovaes@example.com,+55 36 98392-4859,da Rosa,Sergipe,238533,1,2023-11-14,2025-08-05,2025-08-05,ativo
+Sr. Carlos Eduardo Pacheco,m,257.984.601-85,1982-03-26,maria-julianovaes@example.org,+55 91 91671-8432,Viana,Tocantins,218412,2,2023-12-29,2026-06-05,2026-06-05,ativo
+Davi Lucas Correia,m,106.238.975-12,1989-03-22,da-conceicaojulia@example.net,+55 44 99156-3839,Camargo,Pará,331919,2,2023-11-11,2026-09-03,2026-09-03,ativo
+Vitor Hugo da Mota,m,823.947.516-73,1993-03-04,fgomes@example.org,+55 85 95924-9285,da Costa da Serra,São Paulo,969809,1,2023-02-04,2025-08-27,2025-08-27,ativo
+Dr. Otávio Cardoso,m,581.403.796-20,1988-11-15,leaolevi@example.net,+55 88 99850-8092,Vasconcelos,Pernambuco,998669,2,2024-10-01,2026-08-22,2026-08-22,ativo
+Fernando Aparecida,m,605.829.714-11,1992-11-28,alexandre46@example.org,+55 71 95126-4420,Santos,Amapá,297366,2,2023-03-15,2025-11-19,2025-11-19,ativo
+Sr. Gustavo Melo,m,129.376.480-96,1983-01-09,rfreitas@example.com,+55 47 96245-9093,Santos do Amparo,Bahia,605301,3,2023-06-26,2024-12-12,2024-12-12,ativo
+Gabriel Pires,m,961.074.823-69,1981-05-20,diogoalbuquerque@example.org,+55 94 96661-8950,Melo do Oeste,Rio Grande do Sul,900865,3,2024-01-14,2024-12-31,2024-12-31,cancelado
+Maria Clara Rodrigues,f,390.547.621-52,2004-07-27,maria-lizsouza@example.net,+55 87 96770-9674,Caldeira,Santa Catarina,381016,2,2024-03-30,2025-06-23,2025-06-23,ativo
+Mariane Vasconcelos,f,837.461.590-75,1994-11-28,albuquerqueluana@example.com,+55 11 92182-5281,Cirino,Amazonas,351953,1,2024-01-18,2025-03-25,2025-03-25,ativo
+Ravi Rocha,m,908.437.165-84,1983-03-24,sabrina74@example.com,+55 31 94290-6661,Pimenta,Acre,288620,2,2023-06-12,2026-12-06,2026-12-06,ativo
+Sr. Davi Lucca Pastor,m,164.257.809-67,2004-04-05,evelyn99@example.net,+55 21 94026-8926,Ribeiro,Pernambuco,426660,5,2023-03-06,2025-10-21,2025-10-21,ativo
+Isadora Montenegro,f,524.189.670-85,2005-07-23,oliveirakaique@example.com,+55 73 98337-4482,da Luz,Minas Gerais,574515,5,2024-01-12,2025-10-27,2025-10-27,trancado
+Marcelo da Cruz,m,026.784.935-47,2003-08-23,jpimenta@example.org,+55 27 93368-9270,Rezende de Minas,Goiás,462166,4,2023-11-16,2025-09-19,2025-09-19,ativo
+Aylla Santos,f,172.508.693-02,2000-08-19,da-cunhavalentim@example.net,+55 91 95993-8494,Sampaio,Rio de Janeiro,909448,4,2023-02-09,2025-12-26,2025-12-26,ativo
+Ana Clara Nunes,f,530.942.861-51,1999-03-28,carvalholara@example.org,+55 31 99015-8303,Rocha,Ceará,483280,3,2024-05-02,2026-09-24,2026-09-24,trancado
+Isaque Nogueira,m,851.620.374-35,1992-07-09,isabela90@example.com,+55 53 94226-9568,Santos de Santos,Tocantins,945352,1,2024-10-06,2025-05-20,2025-05-20,ativo
+Dra. Rafaela Gonçalves,f,207.539.641-80,2004-06-06,silveirabryan@example.net,+55 86 98334-9684,Ribeiro,Paraná,205533,2,2024-07-17,2026-04-29,2026-04-29,ativo
+Maria Luiza Siqueira,f,895.460.217-76,1982-12-26,joaquim92@example.com,+55 76 93579-7949,Pacheco,Amapá,349656,4,2024-05-12,2026-10-27,2026-10-27,ativo
+Cecília Barros,f,417.652.093-07,1992-07-01,miguelbrito@example.org,+55 30 99752-2109,Cardoso da Praia,Acre,812196,1,2023-06-12,2025-08-17,2025-08-17,ativo
+José Ramos,m,985.034.271-41,1999-04-29,mariane38@example.com,+55 39 99653-4696,Cirino,Mato Grosso,818007,5,2024-01-17,2025-01-03,2025-01-03,ativo
+Miguel Pimenta,m,894.351.620-70,1991-07-19,mcastro@example.com,+55 15 96019-4274,Almeida,Ceará,389056,1,2023-10-15,2025-10-05,2025-10-05,ativo
+Dra. Luna Duarte,f,047.812.356-62,1987-03-11,macedogabriel@example.org,+55 95 91449-2763,Cardoso,Distrito Federal,515766,5,2024-10-08,2026-05-01,2026-05-01,ativo
+Alana Moreira,f,624.509.317-16,2001-01-09,cecilia99@example.org,+55 92 91596-9790,Martins de Goiás,Mato Grosso do Sul,244927,1,2024-08-27,2026-04-23,2026-04-23,ativo
+Bruno da Mata,m,319.628.074-87,1986-11-19,samuel05@example.org,+55 95 92497-8664,Moreira,São Paulo,382859,1,2024-08-22,2026-03-10,2026-03-10,ativo
+Danilo Moreira,m,710.369.854-66,1997-11-01,lunacunha@example.com,+55 61 91009-2470,da Rosa da Prata,Roraima,457834,2,2023-06-24,2025-07-01,2025-07-01,ativo
+Emilly Fogaça,f,027.683.491-78,1988-12-02,mariahgarcia@example.net,+55 18 92966-8203,Duarte,Sergipe,395099,5,2023-01-09,2026-01-25,2026-01-25,cancelado
+Dra. Sara Cavalcanti,f,584.013.279-97,1998-12-04,ian05@example.com,+55 37 97542-7603,da Mota do Campo,Alagoas,250464,3,2023-09-11,2026-07-24,2026-07-24,ativo
+Letícia Câmara,f,180.295.743-04,1981-01-09,giovanna52@example.com,+55 60 94381-9283,Gomes,Espírito Santo,805271,1,2024-05-05,2025-02-04,2025-02-04,ativo
+Nicole Marques,f,280.751.649-11,1998-02-08,lunna96@example.com,+55 89 92806-9343,Silveira,Rio Grande do Norte,741739,1,2024-08-14,2025-06-03,2025-06-03,ativo
+Alexandre Rezende,m,460.738.591-39,1998-03-22,melohellena@example.org,+55 60 95843-6023,Teixeira,Espírito Santo,803360,3,2023-11-24,2025-08-05,2025-08-05,ativo
+Sr. Davi Lucca Lima,m,701.896.432-69,1999-08-29,lopesluan@example.org,+55 46 96841-6337,Pires das Flores,Rio de Janeiro,815239,5,2023-03-07,2025-02-22,2025-02-22,ativo
+Helena Rocha,f,758.624.319-00,1987-07-11,novaismaria-flor@example.org,+55 22 97884-7003,Novaes,Tocantins,465814,5,2024-01-08,2026-01-21,2026-01-21,trancado
+Ana Júlia Ferreira,f,938.506.742-74,1999-09-03,ana-luizasouza@example.net,+55 27 93256-8477,Cunha,Goiás,559702,4,2024-03-16,2026-11-19,2026-11-19,ativo
+Enrico Correia,m,892.306.415-70,2000-12-27,fcamara@example.com,+55 25 97987-4171,Duarte do Galho,São Paulo,573246,1,2024-02-15,2025-10-20,2025-10-20,ativo
+Calebe Ribeiro,m,849.610.753-10,1991-08-04,maria-isis48@example.org,+55 38 98213-4005,Lopes de Caldeira,Distrito Federal,947670,3,2023-06-22,2026-08-15,2026-08-15,ativo
+Fernando Araújo,m,546.827.391-82,2000-02-21,isabel90@example.org,+55 64 99504-7057,Barros das Flores,Rio Grande do Sul,609696,5,2023-10-08,2026-02-17,2026-02-17,ativo
+Luiz Henrique Sousa,m,260.891.374-13,1984-11-15,aparecidaapollo@example.com,+55 39 95631-6760,Costela Paulista,Mato Grosso,550652,4,2023-05-07,2025-08-31,2025-08-31,ativo
+Benício Carvalho,m,156.798.402-94,1992-07-28,qoliveira@example.org,+55 36 92057-4385,da Mata da Mata,Rio Grande do Norte,405284,5,2024-03-15,2026-03-13,2026-03-13,ativo
+João Felipe Pimenta,m,827.306.194-96,1996-02-12,eramos@example.org,+55 56 95708-3462,Cardoso das Pedras,Rio Grande do Sul,963761,2,2023-07-15,2026-10-28,2026-10-28,ativo
+Sr. Yago Campos,m,520.471.986-58,1984-05-11,britoisabella@example.com,+55 20 96523-1548,Rocha das Pedras,Rondônia,812705,3,2023-08-26,2026-06-10,2026-06-10,ativo
+Arthur Vargas,m,438.169.572-00,2000-09-03,miguelvieira@example.net,+55 10 93742-2631,Câmara,Rio de Janeiro,650843,2,2023-09-03,2025-04-28,2025-04-28,ativo
+Ian Cassiano,m,581.406.327-08,1985-11-16,daniel45@example.com,+55 90 97265-3602,Borges,Maranhão,941748,5,2024-05-27,2025-01-27,2025-01-27,ativo
+Enzo Gabriel Rodrigues,m,278.569.143-19,1989-11-20,nina65@example.org,+55 45 94193-1059,Sales,Espírito Santo,903004,1,2023-12-22,2025-05-11,2025-05-11,ativo
+Ana Clara Araújo,f,093.257.614-16,1991-01-05,monteiroana-cecilia@example.com,+55 65 99311-2577,Lima,Rio Grande do Sul,432880,2,2023-11-28,2026-10-14,2026-10-14,ativo
+Otto Sousa,m,678.342.901-69,2004-10-11,maria-laurapastor@example.com,+55 46 94335-2578,Cavalcante das Pedras,Sergipe,519312,5,2024-01-18,2025-05-04,2025-05-04,ativo
+Dr. Arthur Gabriel Monteiro,m,402.386.971-69,2003-06-09,raelporto@example.org,+55 77 93383-2979,Moraes de Minas,Espírito Santo,872286,1,2023-06-26,2025-02-01,2025-02-01,ativo
+Yan Correia,m,297.084.153-32,1989-05-26,mourathales@example.org,+55 58 91490-1777,da Mata dos Dourados,Mato Grosso do Sul,367766,2,2023-03-25,2026-10-28,2026-10-28,ativo
+Catarina Freitas,f,692.314.780-87,2005-05-21,henry-gabriel08@example.com,+55 87 99050-7403,Macedo de Mendonça,Amazonas,116719,3,2023-04-29,2026-01-03,2026-01-03,ativo
+Esther Vasconcelos,f,394.207.851-14,2000-02-06,opacheco@example.net,+55 43 93829-1250,Melo de Pinto,Maranhão,168697,2,2024-06-24,2026-01-24,2026-01-24,ativo
+Pietro Viana,m,973.156.824-73,1994-12-14,ravy66@example.org,+55 26 95674-9416,Barbosa de Minas,Ceará,534565,1,2023-02-12,2024-12-07,2024-12-07,ativo
+Manuella Cavalcanti,f,768.301.259-95,1998-09-01,bsampaio@example.org,+55 80 92556-5114,Ribeiro,Acre,188109,4,2024-06-21,2025-04-30,2025-04-30,ativo
+Sr. José Pedro Guerra,m,028.156.497-30,2005-12-30,mda-rocha@example.org,+55 16 91721-7357,Brito de Gomes,Maranhão,267806,4,2023-03-07,2026-04-22,2026-04-22,ativo
+Luana Pereira,f,902.815.736-03,1990-11-20,vdias@example.net,+55 48 93944-4714,Pastor,Maranhão,639663,2,2023-11-07,2026-10-03,2026-10-03,ativo
+Melina Novaes,f,509.842.317-14,1984-07-06,yasminsouza@example.org,+55 57 93467-8641,Vasconcelos da Serra,Piauí,168601,4,2023-04-16,2026-03-30,2026-03-30,ativo
+Gustavo Henrique Araújo,m,578.901.624-30,2001-07-08,ravi-luccada-mata@example.org,+55 62 97167-3910,Ribeiro dos Dourados,São Paulo,982387,3,2024-07-21,2026-01-16,2026-01-16,ativo
+Pietro Pereira,m,628.709.315-30,1986-06-07,silvamaria-julia@example.com,+55 95 97325-5322,da Luz de Sampaio,Ceará,220502,2,2024-01-09,2025-08-21,2025-08-21,cancelado
+Lara Câmara,f,187.034.952-05,2001-07-19,luiz-henriquemendonca@example.net,+55 66 93397-8200,Souza,São Paulo,131997,4,2023-06-04,2025-04-18,2025-04-18,ativo
+Luan Brito,m,607.594.283-10,1996-05-16,joao-lucas47@example.net,+55 89 96821-4733,Pires,Amazonas,966097,2,2024-01-27,2026-06-11,2026-06-11,ativo
+Levi da Cunha,m,910.572.436-80,1990-03-31,jmoura@example.net,+55 24 99225-9694,Leão,Espírito Santo,603553,5,2024-07-18,2025-06-08,2025-06-08,ativo
+Heitor Caldeira,m,125.460.978-49,1990-11-10,vitor21@example.net,+55 64 93677-9980,Rodrigues do Galho,Alagoas,789500,5,2024-07-04,2026-04-19,2026-04-19,ativo
+Vitor Gabriel da Cunha,m,293.084.167-22,1984-01-05,emilly25@example.org,+55 31 94150-7907,Cunha,Tocantins,394969,1,2024-01-24,2025-07-04,2025-07-04,cancelado
+Melissa Castro,f,804.316.975-66,1995-11-13,luigi09@example.net,+55 82 99129-3897,Fonseca,Mato Grosso do Sul,602145,1,2024-08-18,2025-08-06,2025-08-06,ativo
+Maria Eduarda Gonçalves,f,617.892.045-85,1997-09-06,cardosorebeca@example.com,+55 49 96741-1230,Silveira do Amparo,Mato Grosso do Sul,663025,1,2023-10-05,2026-01-18,2026-01-18,ativo
+João Miguel Almeida,m,413.860.957-10,1987-06-28,pedro-miguelpereira@example.org,+55 18 93885-1482,Macedo,Rio de Janeiro,962522,1,2024-08-17,2026-04-01,2026-04-01,ativo
+Pietro Brito,m,694.317.082-13,2001-12-29,evelynmelo@example.com,+55 32 92823-3923,Alves do Galho,Tocantins,702829,1,2023-08-14,2025-07-25,2025-07-25,ativo
+Brenda Moraes,f,986.572.301-86,2001-07-02,benjamim71@example.org,+55 32 99335-2880,Castro de da Conceição,Tocantins,525301,1,2023-02-17,2026-04-20,2026-04-20,ativo
+João Miguel Gomes,m,017.289.534-05,1996-09-22,lferreira@example.net,+55 16 97153-7099,Jesus da Prata,Piauí,328798,4,2023-04-06,2025-04-07,2025-04-07,ativo
+Ana Lívia Sales,f,068.512.397-95,1992-09-08,sampaioluisa@example.org,+55 28 96113-4384,da Mata do Oeste,Acre,849335,2,2023-08-31,2026-01-02,2026-01-02,ativo
+Ana Luiza Vargas,f,580.914.673-20,1987-05-31,vitor-gabrielmelo@example.com,+55 49 93140-1470,Moura Verde,Pernambuco,988494,5,2023-01-02,2026-07-07,2026-07-07,ativo
+Olivia Duarte,f,581.492.730-50,1993-07-29,borgesoliver@example.net,+55 33 98085-4157,Farias,Minas Gerais,155306,2,2024-05-10,2025-04-05,2025-04-05,ativo
+Maria Abreu,f,651.820.347-17,2005-09-25,enzo-gabrielsantos@example.com,+55 11 99584-8752,Moraes de Azevedo,Amazonas,885524,2,2023-12-26,2025-06-07,2025-06-07,ativo
+Dr. Eduardo Monteiro,m,539.420.781-04,2003-02-20,yan14@example.com,+55 34 98638-3281,Garcia,Paraná,746993,3,2023-12-13,2026-04-29,2026-04-29,ativo
+Esther Moura,f,259.463.178-73,1991-07-31,heloisa99@example.com,+55 76 93174-8809,Sales das Flores,Amazonas,586343,4,2023-09-18,2026-11-27,2026-11-27,ativo
+Cecilia Martins,f,103.467.589-39,1994-03-28,jmendonca@example.net,+55 56 91269-1733,da Luz,Roraima,842912,4,2023-03-31,2026-04-27,2026-04-27,trancado
+Dra. Maria Cecília da Cunha,f,759.086.342-47,2001-04-17,gabriel77@example.com,+55 54 98068-2937,Silveira de Fernandes,Minas Gerais,898074,2,2024-06-15,2025-09-16,2025-09-16,ativo
+Maria Eduarda Melo,f,562.973.801-12,1992-04-05,piresjuan@example.net,+55 55 92291-7803,da Rosa,Mato Grosso do Sul,290839,3,2023-09-02,2026-09-28,2026-09-28,ativo
+Igor das Neves,m,719.203.586-68,1982-02-18,monteiromaria-eduarda@example.com,+55 21 95228-5294,da Mata,Minas Gerais,805739,2,2024-04-22,2026-02-01,2026-02-01,ativo
+Milena Pires,f,285.316.407-17,1996-01-19,arthur-gabriel94@example.net,+55 68 96943-6526,Araújo,Mato Grosso do Sul,360798,5,2023-09-15,2025-05-31,2025-05-31,ativo
+Dr. Vicente Siqueira,m,310.728.694-03,2002-07-02,gmartins@example.com,+55 19 91390-7556,Pereira do Norte,Sergipe,323815,3,2024-02-27,2025-07-04,2025-07-04,cancelado
+Leandro Vasconcelos,m,642.903.851-33,2003-06-01,vguerra@example.org,+55 30 92236-3911,Pereira,Amazonas,255296,1,2024-04-11,2025-10-13,2025-10-13,ativo
+Dr. Luiz Otávio Rezende,m,058.371.462-53,1991-09-11,mrodrigues@example.net,+55 47 94967-7533,Montenegro,Alagoas,689733,5,2023-07-28,2026-10-07,2026-10-07,ativo
+Milena Dias,f,392.504.817-05,1987-08-28,bsantos@example.com,+55 54 98226-7337,Almeida Paulista,Sergipe,491338,1,2024-10-11,2026-06-03,2026-06-03,ativo
+Mathias Viana,m,648.917.352-28,1994-01-31,francisco07@example.com,+55 40 94929-5380,Santos,Roraima,843420,2,2024-02-16,2024-12-06,2024-12-06,ativo
+Antony Marques,m,850.132.647-07,1980-03-04,jose-pedroporto@example.com,+55 52 99934-8843,Rocha da Mata,Rio Grande do Norte,482519,4,2023-04-27,2025-09-09,2025-09-09,ativo
+Lívia Sá,f,730.492.851-41,2003-04-17,estermonteiro@example.org,+55 79 92935-4713,Pereira Alegre,Rondônia,110251,2,2023-03-21,2025-07-11,2025-07-11,ativo
+Dr. Nathan Leão,m,409.356.187-75,1987-07-20,lorenzomoraes@example.com,+55 23 94542-3694,Teixeira de das Neves,Minas Gerais,334674,1,2023-11-20,2025-05-23,2025-05-23,ativo
+Léo Correia,m,360.798.154-00,1983-02-23,qvargas@example.org,+55 16 99406-1509,Vasconcelos das Flores,Maranhão,476589,3,2024-04-09,2026-08-11,2026-08-11,ativo
+Heloísa Oliveira,f,329.458.716-37,1991-07-10,caroline55@example.com,+55 84 94195-2171,Souza Verde,Mato Grosso do Sul,973512,2,2023-04-23,2026-01-19,2026-01-19,ativo
+Isis Gonçalves,f,524.096.871-30,1985-01-22,andre97@example.com,+55 31 93215-9835,Ferreira do Oeste,Santa Catarina,346910,1,2024-04-17,2026-09-26,2026-09-26,ativo
+Dr. Miguel Borges,m,409.671.583-20,2001-03-24,lguerra@example.net,+55 71 91252-9742,Sampaio do Sul,Amazonas,523928,4,2024-04-25,2026-03-02,2026-03-02,trancado
+Marcela Pinto,f,603.917.528-12,1999-08-23,isabelly77@example.com,+55 81 97380-7686,da Mata,Tocantins,274506,3,2024-03-02,2025-10-01,2025-10-01,ativo
+Emanuelly Duarte,f,042.856.739-83,1980-01-16,dcarvalho@example.com,+55 84 95160-5930,Garcia,Tocantins,736417,5,2023-11-08,2025-07-02,2025-07-02,ativo
+Sofia Alves,f,206.981.453-05,1983-11-18,anthonymachado@example.net,+55 60 97442-2534,Macedo,São Paulo,620945,3,2024-02-29,2026-08-12,2026-08-12,ativo
+Nina da Cunha,f,718.350.496-48,2000-02-19,dlopes@example.net,+55 41 91383-4763,Souza,Pernambuco,650401,5,2024-04-14,2025-08-12,2025-08-12,ativo
+Pietra Martins,f,475.803.619-57,1981-10-11,ravi-luccacavalcanti@example.com,+55 49 94430-6399,Pastor,Pará,534370,1,2024-06-22,2025-04-21,2025-04-21,ativo
+Vinicius Vasconcelos,m,529.610.748-94,1983-03-12,salesisabelly@example.org,+55 88 95907-6830,Porto da Praia,Bahia,671494,5,2024-06-22,2025-03-13,2025-03-13,ativo
+Sra. Sophia Alves,f,631.495.782-64,1990-10-27,luiz-felipebarros@example.com,+55 43 94653-4395,Fogaça da Serra,Piauí,503165,4,2024-09-11,2026-10-08,2026-10-08,ativo
+Lorena da Rosa,f,410.295.386-89,1989-09-28,lorenacastro@example.com,+55 90 99684-8467,Câmara de Lopes,Distrito Federal,851942,2,2023-08-15,2025-06-17,2025-06-17,trancado
+Dra. Laís Jesus,f,743.259.860-65,1985-09-17,cavalcantigabrielly@example.org,+55 85 98249-5362,Pimenta de Costela,Alagoas,177650,3,2023-06-14,2026-05-01,2026-05-01,ativo
+Kevin Fogaça,m,170.395.864-01,1983-02-11,ngoncalves@example.com,+55 10 99798-5083,Cunha do Oeste,Goiás,515408,5,2024-01-28,2025-04-18,2025-04-18,ativo
+Sara da Rosa,f,540.731.296-43,2000-03-27,vargasmanuela@example.net,+55 55 94050-6019,da Cruz,Tocantins,715658,2,2023-02-25,2026-10-06,2026-10-06,ativo
+Dr. Thiago Farias,m,479.621.805-01,1997-11-15,ksilva@example.net,+55 54 98537-5849,Azevedo da Mata,São Paulo,480202,5,2024-03-03,2025-07-13,2025-07-13,ativo
+Lara Sales,f,524.897.013-04,1986-01-25,ana-beatriz51@example.org,+55 19 92709-2860,Vieira de Silva,São Paulo,710218,3,2024-08-05,2026-02-07,2026-02-07,ativo
+Valentina Albuquerque,f,215.396.084-33,1996-11-19,albuquerqueraul@example.net,+55 64 94504-2423,Teixeira da Prata,Pernambuco,786545,3,2024-03-15,2025-11-15,2025-11-15,ativo
+Nicolas das Neves,m,940.652.813-42,1983-10-06,araujomaria@example.net,+55 38 91988-3967,Nunes,Acre,110754,2,2024-05-22,2025-12-02,2025-12-02,ativo
+Ana Luiza Guerra,f,610.843.257-80,1997-10-25,antony22@example.org,+55 31 95398-5804,Oliveira de Carvalho,Mato Grosso do Sul,739916,1,2024-01-19,2026-12-29,2026-12-29,ativo
+Thomas Silveira,m,453.796.801-00,2001-01-29,costelapietro@example.org,+55 24 99697-1231,Souza do Oeste,Alagoas,654286,1,2023-11-29,2026-08-30,2026-08-30,ativo
+Pietra da Paz,f,716.034.529-07,1989-04-25,caraujo@example.org,+55 80 99887-8282,Cirino,Pernambuco,611952,1,2023-01-29,2025-02-27,2025-02-27,trancado
+Dr. Igor da Mata,m,791.485.623-19,2005-05-03,montenegroheitor@example.org,+55 83 92293-7055,Barros de Montenegro,Paraná,323254,5,2023-10-27,2024-12-29,2024-12-29,ativo
+Diogo Cassiano,m,760.413.529-34,2002-01-02,laviniacavalcanti@example.org,+55 78 97569-5249,Cunha do Campo,Minas Gerais,166010,4,2024-04-21,2025-10-22,2025-10-22,ativo
+Pietro da Costa,m,213.960.458-05,1990-11-10,enzo-gabrielaragao@example.com,+55 77 95367-6142,Andrade da Serra,Rio Grande do Norte,813027,1,2023-04-10,2026-07-17,2026-07-17,ativo
+Dra. Evelyn Nunes,f,403.718.625-07,1992-11-20,bsa@example.com,+55 68 95911-4784,da Mata,Santa Catarina,160567,2,2023-01-13,2024-12-16,2024-12-16,ativo
+Theodoro Teixeira,m,308.245.769-00,1993-02-23,manuela75@example.org,+55 73 95919-7677,Marques do Oeste,Paraíba,758042,4,2023-11-16,2025-09-08,2025-09-08,ativo
+Maria Alice Rios,f,439.287.506-74,2003-11-11,maria-juliada-mata@example.net,+55 34 94706-7855,da Conceição,Paraíba,623026,1,2023-10-15,2025-11-09,2025-11-09,ativo
+Heloísa Albuquerque,f,216.497.058-67,1992-10-13,ribeiroerick@example.com,+55 72 99200-2298,Moraes da Prata,Goiás,172057,3,2023-10-08,2026-09-23,2026-09-23,ativo
+Ana Vitória Costela,f,598.016.472-30,1984-07-08,jbrito@example.net,+55 65 98609-2395,Barros dos Dourados,Pará,975464,4,2023-03-06,2026-06-26,2026-06-26,ativo
+Dra. Luísa Garcia,f,951.308.247-41,1982-11-02,vitor-gabrielsiqueira@example.net,+55 85 92529-5424,Fonseca de Ramos,Minas Gerais,438566,3,2023-10-16,2026-08-30,2026-08-30,ativo
+Brenda Ramos,f,092.381.567-86,1993-07-29,marqueslucas-gabriel@example.org,+55 94 95971-6632,Pinto de Lopes,Maranhão,196012,1,2023-01-27,2025-02-17,2025-02-17,ativo
+Dr. Henrique Brito,m,381.209.675-77,1991-11-30,bguerra@example.org,+55 91 92231-5761,Pinto,Rondônia,637385,5,2023-09-07,2025-09-05,2025-09-05,ativo
+Pedro Lucas Farias,m,058.697.241-20,1986-06-03,pedro-henriquejesus@example.com,+55 68 99772-3237,da Cruz,Acre,368632,1,2023-04-30,2025-07-16,2025-07-16,ativo
+Marcelo Machado,m,982.365.714-91,1987-07-23,elopes@example.org,+55 71 98308-5966,Peixoto do Oeste,Alagoas,151961,2,2023-09-13,2025-10-25,2025-10-25,ativo
+Francisco da Conceição,m,790.642.185-01,1995-05-03,lara22@example.net,+55 70 91459-4608,Rios das Flores,Goiás,747261,4,2024-02-23,2025-04-12,2025-04-12,ativo
+Maria Alice Santos,f,283.017.645-62,2002-07-15,rebecapeixoto@example.net,+55 30 96515-7907,Silveira,Acre,862982,2,2023-02-11,2025-12-31,2025-12-31,ativo
+Gabrielly Pinto,f,473.152.809-79,1980-06-14,yferreira@example.org,+55 75 99218-7150,Rios Alegre,Rio Grande do Norte,192938,5,2023-12-03,2026-11-26,2026-11-26,ativo
+Bárbara Azevedo,f,184.357.620-17,1992-12-23,cmachado@example.com,+55 63 95197-4876,Casa Grande,Pará,213623,1,2024-05-27,2026-05-30,2026-05-30,trancado
+Davi Lucas Teixeira,m,326.189.475-09,1995-09-14,alexandre32@example.org,+55 63 94868-3695,Aragão,Rio de Janeiro,307396,5,2023-06-05,2025-12-11,2025-12-11,ativo
+Elisa Mendes,f,348.512.069-33,1989-07-02,davimartins@example.org,+55 39 99123-3681,Castro da Serra,Acre,861182,2,2023-05-09,2025-02-02,2025-02-02,ativo
+Kamilly Viana,f,298.745.061-30,1983-02-10,gpastor@example.com,+55 79 91080-2312,Cardoso de da Rosa,Espírito Santo,324777,1,2024-01-17,2026-04-13,2026-04-13,trancado
+Valentina Brito,f,694.318.572-19,1980-05-22,teixeiralarissa@example.org,+55 73 96288-3559,Abreu,Paraná,710648,5,2024-07-24,2026-11-25,2026-11-25,ativo
+Breno Fernandes,m,814.752.936-82,1983-11-30,camargoantony@example.com,+55 82 91398-4410,Monteiro,Rio Grande do Sul,370369,3,2024-08-25,2025-06-15,2025-06-15,cancelado
+Ana Liz da Mota,f,743.610.295-80,1995-09-16,peixotojulia@example.org,+55 22 99597-5789,Farias,Bahia,416107,5,2023-03-11,2026-11-23,2026-11-23,ativo
+Cecília Sales,f,965.721.483-19,1990-01-15,maria-eduarda85@example.com,+55 29 97213-4960,Fernandes da Mata,Rio Grande do Sul,298029,1,2024-01-14,2025-08-28,2025-08-28,ativo
+Enzo Brito,m,804.519.732-32,1997-01-06,ana-juliacunha@example.com,+55 65 94608-5146,Rodrigues das Flores,Amapá,289515,2,2023-04-17,2026-01-03,2026-01-03,ativo
+Oliver Pimenta,m,190.235.876-77,1991-09-28,salescarolina@example.net,+55 11 96684-3843,Rocha de Barros,Distrito Federal,762811,5,2024-05-12,2025-11-29,2025-11-29,cancelado
+Noah Freitas,m,264.098.351-24,2003-05-29,gfogaca@example.net,+55 67 99640-6431,Rios,Acre,796308,4,2023-03-12,2026-12-27,2026-12-27,ativo
+Dra. Isabel Dias,f,405.678.231-80,1996-02-06,valentinasilva@example.net,+55 14 92491-4202,Jesus do Campo,Espírito Santo,352438,3,2023-10-06,2025-09-28,2025-09-28,ativo
+Dante da Cunha,m,804.265.137-62,1995-06-21,hcampos@example.org,+55 36 96398-1148,Monteiro,Distrito Federal,674499,1,2023-02-01,2025-10-09,2025-10-09,trancado
+Leonardo Pacheco,m,791.658.043-84,1986-02-11,kramos@example.com,+55 81 92717-8865,Cardoso do Galho,Paraíba,276650,2,2024-08-14,2026-10-04,2026-10-04,ativo
+Dom Barbosa,m,057.329.486-00,1992-04-14,ravinascimento@example.org,+55 28 95642-6100,Cavalcante,Piauí,157643,3,2023-01-01,2024-12-12,2024-12-12,ativo
+Evelyn Gomes,f,624.897.310-50,1989-08-05,hellena62@example.com,+55 95 94565-8991,Martins do Amparo,Rio Grande do Norte,288804,3,2023-09-29,2025-12-09,2025-12-09,trancado
+Clara Aparecida,f,906.152.837-21,2005-05-02,natalialopes@example.org,+55 27 95215-9627,Sampaio,Goiás,729490,5,2023-09-13,2025-05-10,2025-05-10,ativo
+Arthur Freitas,m,807.429.531-14,2004-05-07,saracamara@example.com,+55 50 98783-3340,Cavalcanti,Ceará,658265,1,2024-08-30,2026-07-25,2026-07-25,ativo
+Joaquim Cassiano,m,503.297.148-05,2002-12-16,limacalebe@example.net,+55 67 99263-7054,Cavalcante,Bahia,575875,5,2023-09-17,2024-12-20,2024-12-20,ativo
+Julia Abreu,f,206.547.819-58,2005-01-22,joao-lucasvargas@example.org,+55 39 98640-3584,Moraes,São Paulo,171435,1,2023-08-20,2026-08-02,2026-08-02,ativo
+Joana Barros,f,789.104.563-10,2004-02-08,andradedavi-lucas@example.com,+55 93 95495-3297,da Mota,Paraíba,104518,5,2023-03-27,2026-11-21,2026-11-21,ativo
+Francisco Ribeiro,m,043.518.672-80,1990-04-19,ycaldeira@example.org,+55 72 99898-6424,Nogueira Alegre,Rio Grande do Norte,480307,2,2024-09-29,2026-03-09,2026-03-09,trancado
+Sr. Isaque Fonseca,m,217.349.560-70,1997-06-08,lorenzo10@example.net,+55 83 94308-5362,Gonçalves do Norte,Ceará,897257,4,2023-11-28,2026-02-10,2026-02-10,ativo
+Dr. Marcos Vinicius Sá,m,695.840.721-02,1984-12-15,rafaelada-cunha@example.com,+55 88 91644-6538,Cavalcante,Minas Gerais,246659,4,2023-06-23,2026-03-28,2026-03-28,ativo
+Dr. Guilherme Pires,m,291.743.860-69,2003-02-28,caldeirathales@example.org,+55 55 92295-5461,Silva,Ceará,267112,1,2023-04-04,2026-06-27,2026-06-27,trancado
+Luiz Fernando Moraes,m,260.517.348-80,2003-02-25,noliveira@example.org,+55 49 99666-4045,Costa de Marques,Rio Grande do Norte,259585,3,2024-09-07,2026-06-19,2026-06-19,ativo
+Brenda Costa,f,456.820.713-44,1985-09-14,da-costaclarice@example.org,+55 76 95811-3405,Monteiro de Melo,Rio Grande do Norte,425066,1,2023-10-03,2025-09-07,2025-09-07,ativo
+Luiz Gustavo Casa Grande,m,309.645.281-42,1985-11-23,calebe71@example.net,+55 64 98797-2048,Cavalcanti,Piauí,606251,4,2024-02-16,2026-09-21,2026-09-21,trancado
+Mateus Pires,m,174.605.983-48,2003-11-18,caleberios@example.org,+55 48 94153-5602,Pastor Verde,Maranhão,125145,3,2024-09-21,2025-02-19,2025-02-19,ativo
+Dr. Igor Nunes,m,018.739.645-01,1998-09-17,joao-guilherme06@example.com,+55 38 91273-8231,Guerra do Galho,Paraíba,586334,4,2023-02-23,2026-09-14,2026-09-14,ativo
+Sr. Matheus Gonçalves,m,624.351.709-80,1987-05-20,borgesstella@example.org,+55 18 91899-9036,Cunha,Amapá,220887,5,2024-02-07,2026-04-11,2026-04-11,ativo
+Cecília Teixeira,f,315.084.769-93,1993-06-16,ypastor@example.com,+55 63 97460-9046,Novaes de Silva,Amazonas,814754,5,2023-06-27,2026-01-30,2026-01-30,ativo
+Dr. Guilherme Câmara,m,921.834.507-97,1980-12-13,davi15@example.net,+55 16 92372-5200,Macedo de Campos,Paraná,327226,3,2024-04-22,2025-03-19,2025-03-19,ativo
+Sr. Matheus Martins,m,947.653.821-09,1981-09-11,casa-grandefernando@example.com,+55 47 93619-6440,Fonseca Grande,Rio Grande do Sul,870517,4,2023-06-11,2025-01-16,2025-01-16,trancado
+Rafaela da Costa,f,924.167.530-61,2003-10-04,ncamara@example.org,+55 71 95564-4177,Camargo,Paraíba,335612,4,2023-03-19,2025-02-03,2025-02-03,ativo
+Srta. Julia Pimenta,f,193.204.578-32,2005-03-11,xgoncalves@example.com,+55 35 99889-2763,Leão,Rondônia,577040,2,2024-08-02,2025-01-06,2025-01-06,ativo
+Murilo Rodrigues,m,365.978.410-93,2001-04-18,sophiefogaca@example.com,+55 30 92625-8398,Viana,Acre,128123,2,2023-03-17,2025-02-16,2025-02-16,trancado
+Dr. Gabriel Moraes,m,739.425.016-43,1991-12-04,alvesoliver@example.net,+55 66 92690-1441,Porto,Espírito Santo,321254,2,2023-06-16,2025-12-26,2025-12-26,ativo
+Sr. Heitor da Cunha,m,739.601.548-01,1981-04-17,santosvalentina@example.net,+55 66 99433-8576,da Conceição,Mato Grosso do Sul,738011,2,2023-08-01,2026-02-10,2026-02-10,trancado
+Davi Miguel Macedo,m,245.801.967-67,1989-06-07,tsilveira@example.org,+55 30 95274-8654,Dias Grande,Mato Grosso,928198,5,2024-05-19,2026-10-26,2026-10-26,ativo
+Manuella Leão,f,354.916.728-82,1989-10-10,valentim74@example.org,+55 24 91679-6182,Barbosa da Praia,Espírito Santo,430777,2,2023-07-04,2026-11-11,2026-11-11,ativo
+Bento da Conceição,m,462.703.591-80,1992-10-01,apimenta@example.org,+55 87 94101-1198,Melo da Mata,Sergipe,384686,2,2024-05-07,2026-08-02,2026-08-02,ativo
+Rhavi Silva,m,051.423.786-44,1991-06-29,davi-miguelpires@example.com,+55 50 97191-4726,Campos da Mata,Sergipe,151287,4,2024-04-07,2025-02-16,2025-02-16,ativo
+Srta. Maria Alice da Cruz,f,391.867.054-66,1985-02-28,lais98@example.net,+55 10 97282-5299,da Cruz,Sergipe,993278,4,2023-12-12,2025-04-16,2025-04-16,ativo
+Sr. Anthony Novaes,m,284.730.195-04,1998-05-21,arthurcasa-grande@example.org,+55 71 93953-6937,Almeida,Roraima,867707,2,2024-03-20,2025-03-31,2025-03-31,ativo
+Bianca Duarte,f,256.147.389-91,1982-07-01,ana-lizgoncalves@example.com,+55 85 91750-1220,Rios,Rio Grande do Norte,311335,5,2023-04-07,2025-08-19,2025-08-19,ativo
+Vitória Fernandes,f,875.602.134-80,2000-12-30,britocamila@example.org,+55 64 99549-8146,Araújo,Mato Grosso do Sul,752678,1,2023-10-19,2026-04-09,2026-04-09,ativo
+Daniel Martins,m,391.468.570-01,1990-12-22,stella12@example.org,+55 75 97313-5970,Garcia de Cardoso,Amapá,440106,3,2024-09-03,2025-09-21,2025-09-21,ativo
+Juliana Aparecida,f,382.104.695-33,1993-08-16,hellenaaraujo@example.com,+55 27 99880-9987,Sousa da Prata,Paraná,749928,2,2024-01-06,2026-12-16,2026-12-16,ativo
+Maria Clara Marques,f,716.458.930-57,1989-09-27,fariasvalentim@example.net,+55 10 98314-4698,Albuquerque de Goiás,São Paulo,715045,2,2023-05-18,2026-03-02,2026-03-02,ativo
+Marcelo Araújo,m,431.765.209-99,2001-04-25,carvalhorafaela@example.net,+55 48 94499-5873,Machado do Sul,Rio Grande do Norte,687636,4,2023-07-11,2025-05-18,2025-05-18,ativo
+Pedro Lucas Teixeira,m,629.570.438-74,1998-12-21,tandrade@example.org,+55 11 95948-8502,Aparecida,Alagoas,213422,2,2023-11-10,2025-04-08,2025-04-08,ativo
+Kamilly Cunha,f,741.928.360-50,1993-12-17,maria-liz04@example.net,+55 38 97634-5630,Câmara,Paraíba,855173,1,2023-09-25,2026-12-15,2026-12-15,ativo
+Helena Carvalho,f,472.196.805-11,1993-02-25,hadassapinto@example.com,+55 27 98940-5990,Caldeira,Espírito Santo,551271,5,2023-03-23,2025-12-27,2025-12-27,ativo
+Zoe Novaes,f,185.092.674-30,2004-05-17,sophialopes@example.net,+55 37 97338-7022,da Mata do Oeste,Alagoas,760732,1,2023-11-07,2025-06-25,2025-06-25,ativo
+Gael Ferreira,m,063.142.985-98,1990-01-10,claracosta@example.com,+55 94 96028-1344,da Conceição de Camargo,Amapá,116190,2,2023-01-02,2026-04-19,2026-04-19,ativo
+Dom Novais,m,513.960.827-86,1998-11-06,pirespietra@example.org,+55 95 97950-5778,Marques Verde,Goiás,597392,5,2023-02-22,2024-12-29,2024-12-29,trancado
+Ana Vitória Rodrigues,f,205.648.793-47,1989-02-02,jesusyuri@example.com,+55 68 93519-7208,Caldeira do Galho,Bahia,745819,1,2024-06-12,2025-08-07,2025-08-07,ativo
+Maysa Castro,f,185.290.467-49,1991-01-16,ana-juliapastor@example.com,+55 89 91375-6464,Dias,Mato Grosso do Sul,494077,4,2024-08-22,2025-10-27,2025-10-27,ativo
+Arthur Pacheco,m,068.172.954-67,1991-02-27,cassianopietra@example.org,+55 54 95037-2587,Correia das Flores,Pará,575833,2,2023-01-02,2025-11-07,2025-11-07,trancado
+João Novaes,m,830.427.516-35,1995-11-13,wda-conceicao@example.com,+55 78 97112-5081,Duarte,Alagoas,721712,5,2024-04-08,2026-08-26,2026-08-26,trancado
+Bella Araújo,f,761.925.304-16,2005-12-08,stephanyfogaca@example.org,+55 13 99782-4077,Campos,Rio Grande do Sul,667347,2,2023-02-09,2026-11-03,2026-11-03,ativo
+Luana Vieira,f,861.405.273-17,2005-12-16,isabelagomes@example.net,+55 87 92931-5932,Borges,Amazonas,445237,2,2024-04-14,2026-08-09,2026-08-09,ativo
+Júlia Correia,f,908.731.256-30,2004-01-15,theocamargo@example.com,+55 14 91371-7418,da Cunha de Cassiano,Minas Gerais,511762,2,2023-08-15,2026-10-10,2026-10-10,ativo
+Theo Costa,m,638.052.714-17,2004-12-22,gustavo-henriquecasa-grande@example.com,+55 16 96814-1160,Pimenta,Goiás,215485,3,2023-01-30,2025-04-21,2025-04-21,ativo
+Clarice da Paz,f,278.496.513-91,1989-06-25,tmelo@example.org,+55 62 92116-5976,Cardoso,Alagoas,125588,4,2024-01-31,2025-10-21,2025-10-21,ativo
+Nicole Teixeira,f,573.802.916-02,1980-06-30,hvargas@example.org,+55 92 98909-8062,Porto,Mato Grosso do Sul,277491,1,2023-09-30,2025-08-09,2025-08-09,cancelado
+Yan Barbosa,m,961.450.287-85,1997-12-12,jcirino@example.com,+55 69 93169-3585,Camargo de Freitas,Distrito Federal,891427,3,2023-05-04,2026-07-06,2026-07-06,ativo
+Dr. Raul Costa,m,810.736.924-69,2001-09-30,qmoura@example.net,+55 17 96360-5412,Nogueira Alegre,Pará,418074,3,2024-05-12,2025-05-01,2025-05-01,cancelado
+Heloísa Borges,f,047.685.921-20,2000-12-09,pastormaria-vitoria@example.net,+55 19 97410-8067,da Rosa Alegre,Paraná,691176,2,2023-07-29,2025-11-24,2025-11-24,ativo
+Dr. Luan Machado,m,135.426.097-06,1991-08-19,lunna53@example.org,+55 11 92130-7949,Pinto Grande,Mato Grosso do Sul,659220,1,2024-04-08,2025-09-29,2025-09-29,ativo
+Laís Mendonça,f,641.372.095-61,1984-02-13,apollo55@example.org,+55 74 97355-7722,da Conceição,Paraíba,718931,4,2023-02-20,2026-07-28,2026-07-28,ativo
+Ester Mendonça,f,671.329.508-86,1981-07-02,sampaiovinicius@example.org,+55 46 91965-6812,Viana,Pará,649439,5,2024-02-04,2025-12-16,2025-12-16,ativo
+Bruna Souza,f,925.316.804-89,1995-03-20,marianecavalcante@example.net,+55 86 96021-3750,Pires,Pernambuco,268305,1,2024-07-28,2026-04-08,2026-04-08,trancado
+Emilly Melo,f,413.067.592-34,2005-07-16,ana-beatriz06@example.org,+55 19 94700-7357,Caldeira do Galho,Minas Gerais,193291,5,2024-04-10,2026-03-14,2026-03-14,ativo
+Sofia Marques,f,391.742.658-73,2001-06-12,jose-miguel47@example.org,+55 40 96813-9581,Porto,Rio Grande do Sul,271846,5,2023-11-16,2026-06-30,2026-06-30,ativo
+Nathan Novaes,m,945.670.831-48,2003-10-20,eduardajesus@example.net,+55 59 97727-7531,Cardoso do Norte,Amapá,489547,2,2024-03-16,2026-02-23,2026-02-23,ativo
+Vicente Nunes,m,729.318.054-32,1996-09-29,carvalhothomas@example.org,+55 19 92988-2589,Costela do Norte,Pernambuco,923680,3,2023-04-05,2026-05-29,2026-05-29,ativo
+Luiz Gustavo Macedo,m,594.763.201-25,1989-08-22,cda-paz@example.net,+55 33 94409-2355,da Mata,Mato Grosso,257977,4,2024-03-30,2026-07-08,2026-07-08,ativo
+Arthur Ribeiro,m,286.347.091-40,1986-02-08,marcos-vinicius46@example.net,+55 17 93366-6246,Caldeira das Pedras,Piauí,751343,2,2023-07-24,2025-04-20,2025-04-20,trancado
+Evelyn Caldeira,f,398.417.652-09,1986-03-18,jmendonca@example.net,+55 31 92351-7141,Ramos,Mato Grosso do Sul,325429,1,2024-07-17,2026-10-04,2026-10-04,ativo
+José Pedro Martins,m,406.857.391-39,1985-12-02,maitecardoso@example.net,+55 54 98386-3709,Freitas das Flores,Espírito Santo,750038,2,2023-03-29,2024-12-29,2024-12-29,ativo
+Amanda Pacheco,f,670.583.219-30,2001-12-21,alexiasouza@example.net,+55 24 92276-6025,Marques dos Dourados,Bahia,733330,2,2024-05-28,2024-12-13,2024-12-13,trancado
+Liz Câmara,f,067.392.418-13,2003-12-08,gomesana-sophia@example.com,+55 59 98048-3564,Cunha,Santa Catarina,191320,3,2023-12-24,2026-07-23,2026-07-23,ativo
+Luiz Miguel Pires,m,276.309.185-77,1982-10-05,joao-guilherme26@example.org,+55 22 95665-5769,Abreu de Dias,Mato Grosso do Sul,285610,5,2024-06-25,2024-12-18,2024-12-18,ativo
+Ana Sophia Nunes,f,289.470.635-92,1996-02-08,lbarros@example.org,+55 67 92272-6931,Silva,Pernambuco,914995,4,2023-07-19,2026-12-11,2026-12-11,ativo
+Levi Cassiano,m,865.203.417-62,2001-11-13,ravi86@example.net,+55 33 99914-3450,Alves das Flores,Tocantins,425854,5,2024-04-04,2025-03-01,2025-03-01,ativo
+Maria Isis Nunes,f,240.365.187-71,1996-12-26,nicolas00@example.com,+55 90 91346-7420,Moura,Rio Grande do Sul,894816,4,2023-10-19,2026-04-20,2026-04-20,cancelado
+Anna Liz Ferreira,f,970.651.423-61,2004-06-12,danilovasconcelos@example.org,+55 65 95118-8633,Leão,Pará,927622,2,2024-06-20,2026-11-27,2026-11-27,ativo
+Daniel Casa Grande,m,714.520.689-76,1988-08-19,gustavo53@example.net,+55 49 98564-4946,Barros,Tocantins,213463,5,2024-07-07,2026-07-26,2026-07-26,cancelado
+Lucca Sá,m,819.607.235-02,1987-07-05,dnascimento@example.org,+55 91 98499-9018,Rios,Pernambuco,834626,1,2023-10-16,2025-02-18,2025-02-18,ativo
+Benjamin Pastor,m,584.063.921-42,1987-09-22,aylla51@example.com,+55 38 99723-2561,Santos,Pará,423662,3,2024-08-09,2025-12-08,2025-12-08,cancelado
+Oliver Fonseca,m,458.973.261-00,1994-08-31,bruno27@example.org,+55 82 95000-6007,Castro,Ceará,703006,2,2024-08-09,2026-03-07,2026-03-07,ativo
+Liam Camargo,m,763.098.524-00,1982-01-04,sophie03@example.org,+55 11 91903-7868,da Mota,Paraná,670893,3,2023-01-06,2025-07-15,2025-07-15,cancelado
+Benicio Freitas,m,196.502.748-20,1998-06-04,silveirabento@example.org,+55 88 97558-8972,da Mota,Amazonas,334603,1,2023-03-23,2025-06-25,2025-06-25,cancelado
+Rodrigo Nunes,m,435.027.869-92,2002-10-16,eduardalima@example.com,+55 70 91897-4756,Nogueira,Paraná,256485,1,2023-10-18,2025-05-08,2025-05-08,ativo
+Dr. Emanuel da Mota,m,356.471.208-90,1991-01-15,emanuellafernandes@example.com,+55 64 91128-3321,Monteiro,Sergipe,865484,2,2024-05-27,2025-08-11,2025-08-11,ativo
+Luna Oliveira,f,462.539.710-34,1980-02-19,gustavo-henriquesousa@example.net,+55 63 97494-6281,Aparecida,Amapá,203718,1,2024-08-20,2026-04-10,2026-04-10,ativo
+Stella da Cruz,f,847.610.593-20,1986-01-05,caiodias@example.net,+55 46 98661-5454,Pinto do Norte,Goiás,476709,5,2023-09-03,2026-02-19,2026-02-19,ativo
+Helena Castro,f,215.694.087-85,1989-08-28,xcostela@example.com,+55 75 91117-1858,Rocha,Mato Grosso,223849,2,2023-10-30,2025-08-29,2025-08-29,ativo
+Nicolas da Paz,m,728.690.143-50,1993-12-03,kamilly78@example.com,+55 88 93162-6339,Nunes do Sul,Rio Grande do Norte,971517,1,2023-11-08,2025-06-20,2025-06-20,ativo
+Sr. Antony Novaes,m,579.314.820-50,2005-02-04,nunesagatha@example.com,+55 33 91043-8657,Mendonça das Flores,Rio de Janeiro,504526,3,2024-01-09,2026-07-16,2026-07-16,ativo
+Sr. Erick Pires,m,719.823.605-77,1983-01-22,aparecidamaria-helena@example.net,+55 76 96386-3904,Guerra de Goiás,Rondônia,890518,4,2024-02-16,2025-02-03,2025-02-03,ativo
+Srta. Maria Eduarda Montenegro,f,087.354.629-65,1985-01-30,bruno80@example.com,+55 69 94544-4094,da Cunha,Rio Grande do Sul,865988,1,2024-02-14,2025-09-01,2025-09-01,ativo
+Manuella Teixeira,f,468.371.590-20,1990-03-11,xramos@example.com,+55 46 94766-4246,da Rosa de Vieira,Mato Grosso,591061,2,2023-08-09,2026-07-27,2026-07-27,ativo
+Kevin Moura,m,603.725.194-07,2003-08-08,vinicius25@example.com,+55 28 93219-5308,Rios,Mato Grosso do Sul,631355,3,2023-01-05,2025-11-03,2025-11-03,ativo
+Ana Laura da Mata,f,530.179.248-23,1985-02-14,ana-liviaalmeida@example.org,+55 15 93634-5144,Câmara,Rio Grande do Sul,378008,3,2024-08-18,2026-02-10,2026-02-10,ativo
+Zoe Moura,f,765.201.498-02,1984-03-24,lorenzodias@example.net,+55 70 98470-9671,Freitas,Ceará,532832,5,2023-11-16,2026-05-03,2026-05-03,ativo
+Luan Guerra,m,978.254.316-00,1982-07-10,isabela25@example.org,+55 94 95341-3341,Vargas,Minas Gerais,951885,1,2024-02-29,2025-04-23,2025-04-23,ativo
+Maria Helena Barros,f,809.571.623-59,1988-02-25,plopes@example.org,+55 64 92002-3616,da Cunha da Serra,Espírito Santo,389756,1,2024-06-29,2025-04-23,2025-04-23,trancado
+Bella Rodrigues,f,437.689.015-48,1980-01-09,oliviamoura@example.com,+55 69 94566-6252,Casa Grande,Mato Grosso,503980,5,2024-08-02,2025-05-29,2025-05-29,ativo
+Clara Pires,f,758.214.306-07,1981-11-09,isabella06@example.org,+55 53 98970-6913,Mendes,Ceará,182605,4,2024-09-16,2025-11-17,2025-11-17,ativo
+Vitor Brito,m,719.863.452-46,1981-02-18,matteo78@example.org,+55 83 93779-5985,Moreira da Praia,Tocantins,653285,5,2023-09-28,2025-08-22,2025-08-22,ativo
+André Silva,m,918.435.072-50,1998-11-25,ayla23@example.org,+55 69 98995-6208,Novais de Novaes,Rio Grande do Sul,202259,1,2023-02-28,2025-09-07,2025-09-07,ativo
+Sra. Bruna Leão,f,079.251.864-02,1995-01-11,elisa18@example.com,+55 12 99245-7692,Costa,Distrito Federal,951173,5,2024-03-10,2026-05-24,2026-05-24,ativo
+Augusto da Rosa,m,093.716.248-50,2003-08-20,hellena11@example.org,+55 63 93358-8883,Marques,São Paulo,186404,2,2024-08-17,2026-01-24,2026-01-24,ativo
+Benício Lopes,m,832.046.519-24,1990-03-20,leandrodas-neves@example.net,+55 24 96695-1604,Azevedo Alegre,Espírito Santo,958594,4,2023-01-29,2025-02-04,2025-02-04,cancelado
+Anna Liz Brito,f,502.967.341-52,1983-11-21,nascimentopedro-lucas@example.org,+55 63 95473-9400,Castro,Mato Grosso,909203,2,2023-12-28,2025-07-18,2025-07-18,ativo
+Lara Aparecida,f,692.583.107-21,2003-08-18,gnovais@example.net,+55 18 99034-8503,Cunha,Pará,562217,4,2023-10-12,2025-08-27,2025-08-27,ativo
+Emanuelly Oliveira,f,375.420.816-08,1985-03-15,araujomanuella@example.net,+55 81 98659-3641,Pinto,Pará,506844,3,2023-06-23,2025-06-02,2025-06-02,ativo
+José Abreu,m,413.289.607-22,1984-12-04,mathiasmonteiro@example.com,+55 44 91513-8929,Barbosa de Minas,Distrito Federal,774785,5,2024-08-08,2025-12-19,2025-12-19,ativo
+Fernando Farias,m,259.783.104-32,1982-04-22,ana-carolinalima@example.net,+55 37 93015-5154,Cirino,Rio Grande do Norte,386761,2,2024-07-19,2025-05-08,2025-05-08,ativo
+Nicole Duarte,f,310.842.657-53,1996-08-01,costelarodrigo@example.com,+55 69 92360-3003,Lima,Goiás,702957,2,2023-02-03,2026-05-30,2026-05-30,ativo
+Brayan Nogueira,m,329.158.406-60,1993-06-22,antony74@example.net,+55 92 99411-5673,Barbosa,Paraná,397177,3,2023-08-21,2026-04-12,2026-04-12,ativo
+Henrique Macedo,m,895.072.631-95,1995-03-08,larissa02@example.net,+55 39 96083-4470,Sampaio,Ceará,682720,2,2023-02-17,2026-05-02,2026-05-02,ativo
+Luana da Costa,f,652.809.174-94,1980-05-10,fariasyuri@example.com,+55 80 97829-1230,Borges do Sul,Rondônia,656696,2,2023-12-08,2025-08-12,2025-08-12,ativo
+Olivia Costela,f,230.765.918-86,2003-07-20,camposjoao-vitor@example.org,+55 64 95481-2487,da Cruz de Novaes,Distrito Federal,129296,1,2023-07-11,2025-06-27,2025-06-27,ativo
+Eduarda Macedo,f,507.386.149-39,1981-09-01,caldeirapedro-miguel@example.org,+55 45 94071-6132,Ramos,Distrito Federal,495491,4,2023-10-26,2025-06-26,2025-06-26,ativo
+Eduardo Azevedo,m,641.257.893-55,1980-01-21,benjamim63@example.net,+55 24 98977-8449,Siqueira da Mata,Rio Grande do Sul,182044,5,2023-08-31,2025-01-12,2025-01-12,ativo
+Carolina Montenegro,f,769.450.218-58,2004-11-26,obarbosa@example.org,+55 50 93854-7193,Barbosa,Amapá,965963,4,2023-02-27,2026-06-29,2026-06-29,ativo
+Liam Moura,m,983.521.046-24,1993-12-19,luanmonteiro@example.org,+55 65 95393-2313,Cirino,Pará,935955,2,2023-04-20,2025-07-03,2025-07-03,ativo
+Luiz Otávio Aragão,m,385.417.096-39,1994-10-13,bnovais@example.org,+55 87 91585-2896,Souza de Vasconcelos,Mato Grosso do Sul,255750,4,2023-10-02,2025-01-02,2025-01-02,ativo
+Dr. Gael Pastor,m,940.168.237-22,1988-02-08,caio28@example.net,+55 93 92706-3711,Lopes,Sergipe,780404,2,2023-04-05,2026-10-28,2026-10-28,cancelado
+Sophia Souza,f,431.679.580-57,2002-08-09,marina33@example.com,+55 37 92080-9682,da Mata de Viana,Espírito Santo,228427,3,2023-02-08,2025-05-02,2025-05-02,ativo
+Murilo Moraes,m,824.375.901-88,1987-03-20,carvalhobryan@example.com,+55 87 95185-9280,Brito,Rio Grande do Sul,551738,5,2023-02-26,2026-05-02,2026-05-02,ativo
+Maria Luísa da Conceição,f,142.896.053-89,2005-07-17,laviniagomes@example.org,+55 62 96704-4832,da Rosa,Santa Catarina,233019,4,2023-02-06,2026-06-28,2026-06-28,ativo
+Maria Flor Fernandes,f,431.796.825-82,1996-07-14,davi-lucasnogueira@example.com,+55 36 94298-2412,Pacheco,Minas Gerais,822579,3,2023-08-14,2026-11-21,2026-11-21,ativo
+Ana Sophia Melo,f,587.342.190-05,2001-07-17,nathan82@example.org,+55 31 91326-6640,Barros das Pedras,Pará,548325,2,2024-09-21,2026-06-29,2026-06-29,ativo
+Bianca Porto,f,093.184.725-79,1981-06-04,brenodas-neves@example.org,+55 61 94805-8620,Nunes,São Paulo,559251,5,2024-06-21,2026-05-04,2026-05-04,ativo
+Yago Costa,m,948.512.376-00,1988-01-12,eduardo68@example.com,+55 84 99986-6523,Moraes,Rio Grande do Sul,585615,4,2024-01-04,2026-05-01,2026-05-01,ativo
+Theodoro Vargas,m,375.218.960-68,1987-02-16,enzorocha@example.org,+55 68 99632-4138,da Rosa,Alagoas,579738,1,2023-07-04,2025-11-22,2025-11-22,ativo
+Théo Barbosa,m,603.529.487-10,1994-05-31,kevin13@example.net,+55 62 97608-4359,Aparecida da Prata,Bahia,714047,4,2023-04-04,2026-05-24,2026-05-24,ativo
+Dante Costela,m,984.506.317-93,1989-04-10,santosluiz-miguel@example.org,+55 37 92180-5273,da Mota de da Mota,Amazonas,729126,4,2024-01-11,2026-05-19,2026-05-19,ativo
+João Vitor Cavalcanti,m,137.028.564-71,1989-10-16,martinsjoana@example.com,+55 60 95111-9563,Machado,Tocantins,808312,3,2023-09-03,2026-05-16,2026-05-16,ativo
+Enzo Gabriel Cunha,m,176.394.520-07,2004-04-01,ninabarbosa@example.net,+55 77 97909-3762,Garcia,Mato Grosso do Sul,134899,1,2023-05-01,2025-09-14,2025-09-14,ativo
+Cecília Martins,f,024.876.153-62,1993-01-20,cirinojoao-vitor@example.com,+55 62 92735-4047,Gomes das Flores,Tocantins,140449,4,2023-12-11,2025-10-26,2025-10-26,ativo
+Ana Clara Azevedo,f,641.982.035-98,1988-11-20,sfogaca@example.net,+55 38 95576-2223,Souza,São Paulo,506745,3,2024-06-23,2025-06-22,2025-06-22,ativo
+Dr. Isaque Freitas,m,205.349.768-83,2004-08-06,vieiradavi-miguel@example.net,+55 41 98621-4042,Cavalcanti das Pedras,Paraná,659802,4,2023-07-01,2025-10-24,2025-10-24,trancado
+Maria Isis Fogaça,f,198.735.062-68,1990-06-14,tcamargo@example.net,+55 40 92254-3919,da Mata,Goiás,519039,1,2024-09-22,2025-09-25,2025-09-25,trancado
+Srta. Zoe Cunha,f,894.351.702-50,1993-02-21,raul48@example.org,+55 32 98814-8033,Caldeira do Oeste,Rondônia,213458,3,2024-04-30,2025-07-16,2025-07-16,trancado
+Rebeca Vieira,f,851.367.942-91,1983-07-01,juliarezende@example.org,+55 43 98784-1392,da Luz do Norte,Sergipe,819461,4,2023-01-30,2026-09-16,2026-09-16,ativo
+Clarice Câmara,f,961.548.702-30,2000-02-21,alicepastor@example.org,+55 68 93159-2990,Sousa,Paraná,590291,2,2023-12-19,2025-01-08,2025-01-08,ativo
+Bernardo Aragão,m,920.637.481-87,2002-10-18,laraaragao@example.net,+55 13 97816-7390,da Paz da Mata,Paraná,275468,5,2024-04-26,2025-04-29,2025-04-29,ativo
+Joana Pereira,f,540.136.792-99,1993-05-27,joao-lucasbarros@example.org,+55 60 94799-1460,Duarte,Distrito Federal,111751,4,2024-04-06,2026-12-14,2026-12-14,ativo
+Stephany Fernandes,f,347.652.109-52,2003-05-25,ana-clara40@example.net,+55 63 95553-7401,Mendes da Prata,Bahia,911591,4,2024-04-25,2026-08-15,2026-08-15,ativo
+Agatha Mendonça,f,512.086.497-01,1982-05-18,augusto07@example.net,+55 63 94068-9825,Andrade,Pará,658972,4,2024-04-22,2026-02-10,2026-02-10,ativo
+Sra. Isis Jesus,f,874.390.261-87,2004-12-21,leandrorocha@example.org,+55 64 95659-3780,Rios de da Cunha,Espírito Santo,752063,3,2023-01-09,2026-11-08,2026-11-08,ativo
+Antônio Lima,m,672.134.598-64,1980-08-09,pastordom@example.net,+55 44 92339-4268,Oliveira de Sales,Sergipe,552773,5,2024-01-13,2025-11-22,2025-11-22,ativo
+Letícia Câmara,f,057.821.493-88,1987-06-17,noah18@example.com,+55 76 95912-8392,Viana,Maranhão,387974,1,2024-01-31,2025-03-23,2025-03-23,ativo
+Maitê Alves,f,729.065.348-38,1994-11-14,yasminrios@example.net,+55 41 92125-5302,da Rocha Grande,Goiás,165641,2,2023-09-06,2025-06-08,2025-06-08,ativo
+Ryan Moura,m,954.682.031-89,1989-11-19,aparecidaravy@example.org,+55 11 97885-5204,Freitas,Rondônia,900208,5,2023-07-27,2025-07-07,2025-07-07,ativo
+Guilherme Vasconcelos,m,249.508.316-15,1991-10-04,rodrigolima@example.net,+55 87 99657-7745,Peixoto,Rio de Janeiro,693479,4,2023-06-29,2025-08-21,2025-08-21,ativo
+Sra. Lavínia Sales,f,375.608.419-10,1994-01-30,leaozoe@example.org,+55 53 93023-4823,Souza do Norte,Espírito Santo,139828,3,2023-05-30,2026-11-23,2026-11-23,ativo
+Sra. Sara Campos,f,426.978.150-58,2003-10-18,ysiqueira@example.com,+55 63 91622-5863,Caldeira do Amparo,Pará,115893,2,2023-11-08,2026-03-29,2026-03-29,ativo
+Ravi Caldeira,m,678.420.159-02,1999-10-06,novaesdavi-lucca@example.com,+55 70 93091-4500,Teixeira de da Costa,Espírito Santo,999582,1,2024-06-07,2026-03-08,2026-03-08,ativo
+Melina Fernandes,f,368.097.425-65,1993-06-13,bruno96@example.com,+55 54 93249-3952,Fernandes,Mato Grosso do Sul,721740,2,2023-12-03,2025-11-26,2025-11-26,ativo
+Matheus Aparecida,m,542.716.890-76,1990-06-14,benjamin65@example.com,+55 41 97995-7258,Carvalho,Distrito Federal,282471,4,2023-07-17,2026-09-15,2026-09-15,ativo
+Dr. Gael Henrique Garcia,m,290.465.378-38,1990-12-17,joaomontenegro@example.org,+55 66 96231-7965,Cavalcante do Norte,Paraná,188744,4,2023-10-21,2026-12-01,2026-12-01,ativo
+Maitê Correia,f,126.857.349-37,1989-02-10,renancosta@example.org,+55 61 92543-6484,Abreu do Oeste,Acre,916129,1,2023-05-24,2026-03-20,2026-03-20,ativo
+Benício Vieira,m,062.185.934-60,1988-04-23,campossara@example.org,+55 95 91187-5955,Vasconcelos de Castro,São Paulo,191469,4,2024-05-07,2026-05-16,2026-05-16,ativo
+Rafael Campos,m,318.297.460-22,2001-10-18,pireslorena@example.net,+55 54 98045-9253,Teixeira,Mato Grosso do Sul,959252,1,2024-04-24,2026-09-05,2026-09-05,ativo
+Sophia Caldeira,f,310.567.824-71,1987-10-15,carvalhodanilo@example.org,+55 45 98533-4622,Marques,São Paulo,917171,4,2024-06-01,2025-11-02,2025-11-02,ativo
+Sr. Otávio Ribeiro,m,701.489.263-04,1996-01-07,rafaelfogaca@example.com,+55 25 93217-7475,Pires de Câmara,Acre,346302,4,2023-12-04,2026-02-14,2026-02-14,ativo
+Pietra Monteiro,f,435.692.807-56,2002-09-05,renanda-conceicao@example.com,+55 56 93155-3115,Cassiano,Acre,671869,4,2023-02-21,2025-09-07,2025-09-07,ativo
+Luara Brito,f,795.431.620-34,1980-10-07,vicente05@example.com,+55 87 93679-4882,Gonçalves,Amapá,322144,2,2024-06-22,2025-08-07,2025-08-07,ativo
+Vitor Gabriel Monteiro,m,685.024.973-83,1988-04-15,arthur-gabriel52@example.com,+55 38 98543-2695,Fogaça Verde,Rio de Janeiro,197834,2,2023-09-09,2026-12-19,2026-12-19,ativo
+Davi Alves,m,510.743.982-97,1995-05-24,rnunes@example.org,+55 46 98646-3474,Gonçalves,Amapá,946330,2,2024-10-01,2026-03-15,2026-03-15,ativo
+Maya Guerra,f,150.948.627-58,1981-02-09,fonsecacarlos-eduardo@example.com,+55 10 96883-5531,Souza de Borges,Paraíba,247278,2,2024-02-23,2025-12-09,2025-12-09,cancelado
+Maria Flor Santos,f,576.123.849-73,1996-08-18,eda-mata@example.com,+55 75 96595-6840,da Luz do Norte,Mato Grosso,586818,5,2024-02-26,2025-05-02,2025-05-02,ativo
+Sra. Alícia Andrade,f,469.230.781-13,1989-03-09,ryancosta@example.net,+55 28 97535-4126,Vieira,Mato Grosso do Sul,959646,2,2024-04-07,2026-09-05,2026-09-05,trancado
+Alícia Nascimento,f,930.164.852-06,2005-11-23,mariada-mata@example.com,+55 71 93274-3491,Novaes,Mato Grosso do Sul,481760,4,2024-09-18,2026-03-19,2026-03-19,trancado
+Ana Gonçalves,f,531.209.876-03,1996-08-25,cardosoerick@example.org,+55 55 95502-3297,Lima,Distrito Federal,497883,4,2023-12-07,2025-09-29,2025-09-29,ativo
+Luiz Gustavo da Mota,m,946.258.137-19,1983-02-07,maria-julia71@example.org,+55 88 99397-9882,Costa Grande,Distrito Federal,476653,4,2023-12-31,2026-05-14,2026-05-14,ativo
+Joana Fernandes,f,213.950.784-32,2005-08-22,abreuluisa@example.com,+55 19 92150-4102,Macedo,Rondônia,826557,1,2023-04-07,2026-07-27,2026-07-27,ativo
+Maria Luiza Gonçalves,f,638.927.510-21,2003-05-23,nrezende@example.com,+55 83 98425-3179,Borges,Pernambuco,244023,1,2023-11-12,2026-03-22,2026-03-22,ativo
+Marcos Vinicius Macedo,m,350.847.621-90,1985-04-16,nicolecamara@example.org,+55 74 99140-9267,Câmara,Sergipe,207188,4,2023-11-10,2026-06-30,2026-06-30,ativo
+Maria Isis Castro,f,067.259.184-76,1996-12-31,dporto@example.net,+55 21 99026-6156,Pereira,São Paulo,201682,2,2023-12-03,2026-04-06,2026-04-06,ativo
+Aylla Vargas,f,647.052.983-65,2000-02-07,hleao@example.com,+55 90 95446-5405,Azevedo,Santa Catarina,548094,3,2023-06-01,2026-01-09,2026-01-09,ativo
+Raquel Moraes,f,140.586.923-24,2005-04-18,krios@example.net,+55 60 94310-6671,Moura,Roraima,944589,4,2024-02-10,2026-01-12,2026-01-12,ativo
+Marina Camargo,f,382.409.165-89,2002-12-02,francisco68@example.org,+55 26 92316-5894,Sousa de Fonseca,Rio de Janeiro,595053,1,2023-12-12,2025-12-04,2025-12-04,ativo
+Sr. Arthur Lopes,m,416.908.352-06,1989-08-19,ana-luiza05@example.com,+55 45 97297-2406,Rodrigues do Campo,Paraná,500659,5,2024-01-31,2025-09-22,2025-09-22,ativo
+Lucas Gabriel Alves,m,320.519.864-60,1999-08-26,montenegrodavi-miguel@example.net,+55 64 94516-3898,Correia do Campo,Sergipe,207413,1,2024-05-01,2026-05-06,2026-05-06,ativo
+Rafaela Campos,f,092.346.815-33,1990-04-12,caroline16@example.com,+55 61 94217-8271,Marques,Distrito Federal,907350,1,2024-03-04,2025-11-14,2025-11-14,ativo
+Heitor Porto,m,781.065.394-66,1997-12-28,maria-eduardacarvalho@example.com,+55 75 92779-2658,Freitas,Sergipe,246662,2,2024-07-28,2025-10-20,2025-10-20,ativo
+Sr. Felipe Almeida,m,745.968.123-73,1990-06-19,benicio95@example.net,+55 56 99255-5212,Castro Verde,Maranhão,202811,2,2023-03-12,2025-09-24,2025-09-24,ativo
+Raquel Martins,f,951.764.830-84,1993-06-08,carvalhoanthony-gabriel@example.org,+55 23 92947-6264,Nunes do Oeste,Distrito Federal,771453,2,2024-04-24,2025-11-16,2025-11-16,ativo
+Arthur Gabriel Sales,m,917.234.056-80,1999-09-06,juanferreira@example.com,+55 58 96189-2531,Fonseca,Ceará,329889,2,2023-07-02,2026-05-07,2026-05-07,ativo
+Aylla da Luz,f,938.541.706-10,1995-12-03,nuneshellena@example.com,+55 61 91164-1097,Cirino da Serra,Rio Grande do Norte,531938,1,2023-12-11,2025-06-20,2025-06-20,ativo
+João Guilherme Fogaça,m,874.521.903-60,1990-01-25,asafe83@example.net,+55 51 96788-5047,Fogaça,Distrito Federal,963278,3,2023-10-08,2025-08-11,2025-08-11,cancelado
+Laís Borges,f,176.508.934-48,1993-01-04,brenda94@example.org,+55 49 95136-3520,Mendonça de Brito,Santa Catarina,876805,4,2024-07-01,2026-06-07,2026-06-07,ativo
+Davi Miguel Câmara,m,691.507.284-58,1994-09-20,joao-miguelrodrigues@example.org,+55 33 95413-6216,Carvalho,Amazonas,549915,1,2023-03-30,2025-06-13,2025-06-13,trancado
+Ana Luiza Araújo,f,217.493.560-07,1986-01-05,ester27@example.org,+55 47 93236-5369,Azevedo de Moreira,Paraíba,348563,5,2024-09-14,2026-02-28,2026-02-28,trancado
+Bento Leão,m,582.631.940-24,1990-07-03,hellena22@example.net,+55 33 99662-2023,Albuquerque de da Costa,Acre,289845,4,2023-09-26,2026-04-07,2026-04-07,ativo
+Sr. Juan Lima,m,850.273.461-07,1995-07-13,das-nevesantony@example.org,+55 89 99829-4246,Casa Grande,Goiás,598120,2,2024-09-10,2025-01-01,2025-01-01,ativo
+Manuela Cavalcante,f,715.492.680-58,2001-12-16,franciscofarias@example.com,+55 64 96808-6057,Camargo do Norte,Mato Grosso do Sul,826753,5,2023-02-15,2026-06-05,2026-06-05,ativo
+Theodoro da Cunha,m,451.620.378-26,1986-07-25,estheralbuquerque@example.net,+55 65 95824-5290,Nascimento da Prata,Amapá,927911,2,2024-04-13,2025-03-13,2025-03-13,ativo
+Lucas Borges,m,152.934.678-91,1984-04-03,icostela@example.org,+55 88 97646-3767,Silva de Novaes,Rio Grande do Sul,240344,4,2023-05-30,2026-08-12,2026-08-12,ativo
+Júlia Marques,f,465.871.309-84,1981-06-04,fariashenrique@example.com,+55 63 96676-1704,Aragão do Norte,Goiás,667164,1,2024-03-15,2026-01-26,2026-01-26,cancelado
+João da Paz,m,958.426.103-70,2002-08-19,siqueiraarthur-gabriel@example.com,+55 78 93128-4236,Casa Grande de Minas,Mato Grosso do Sul,205317,3,2024-03-31,2026-12-07,2026-12-07,ativo
+Dr. Thomas Duarte,m,763.951.280-86,1998-05-06,garciamaria-julia@example.net,+55 78 98817-8852,Garcia,São Paulo,978104,2,2023-08-29,2026-02-03,2026-02-03,ativo
+Laura Mendes,f,174.902.856-58,1999-03-30,anapinto@example.net,+55 80 92133-2429,Pastor do Sul,Mato Grosso,574807,3,2023-01-31,2025-09-10,2025-09-10,ativo
+Vicente Borges,m,905.837.421-14,1990-08-18,anthony-gabrielcorreia@example.net,+55 23 93536-8627,Porto,Rondônia,567840,5,2024-08-20,2025-12-23,2025-12-23,ativo
+Srta. Luna Araújo,f,368.015.749-57,1989-04-10,paragao@example.org,+55 46 91348-2022,Leão,Sergipe,100971,2,2023-12-26,2025-12-27,2025-12-27,ativo
+Sarah Costela,f,085.213.947-05,1994-05-26,teixeiraantonio@example.org,+55 43 92200-2509,da Cunha dos Dourados,Pará,296927,2,2023-09-30,2025-11-30,2025-11-30,ativo
+Augusto Ferreira,m,876.153.409-93,2005-09-09,da-cruzevelyn@example.com,+55 60 93625-6284,Guerra das Pedras,Tocantins,438945,4,2024-02-04,2026-04-26,2026-04-26,ativo
+Sra. Luna da Cruz,f,375.012.649-61,2005-08-11,ycavalcante@example.net,+55 61 98656-6641,Monteiro,Ceará,750945,2,2023-03-07,2026-05-23,2026-05-23,ativo
+Paulo Costela,m,103.456.728-44,1999-12-12,alicemoura@example.com,+55 52 91178-8803,Souza do Oeste,Mato Grosso,769665,4,2023-04-06,2026-02-27,2026-02-27,ativo
+Rafael Macedo,m,726.498.351-09,1990-12-28,fdias@example.com,+55 76 98332-7142,Machado,Rio Grande do Norte,993855,4,2023-04-19,2026-05-22,2026-05-22,ativo
+Maria Júlia Nunes,f,805.379.416-57,1981-12-15,antonioduarte@example.net,+55 28 93382-9124,Rodrigues,Paraná,143953,4,2023-03-24,2025-08-27,2025-08-27,trancado
+Matheus Gonçalves,m,603.428.597-65,2002-12-05,da-rosalevi@example.org,+55 63 94653-7994,Sales de Melo,Paraná,264467,3,2023-11-27,2025-01-25,2025-01-25,ativo
+Dr. Samuel Macedo,m,704.389.612-69,1999-05-13,gabriellymoreira@example.com,+55 57 97589-4995,Albuquerque,Bahia,446655,2,2023-07-15,2025-02-13,2025-02-13,ativo
+Renan Dias,m,908.165.274-58,1990-06-02,miguelvasconcelos@example.net,+55 59 98016-3264,Sá do Sul,Sergipe,249795,2,2023-08-13,2025-09-04,2025-09-04,ativo
+Diego Pires,m,063.184.927-04,1987-05-10,jade41@example.org,+55 64 94184-9008,Duarte das Pedras,Paraíba,312573,3,2023-05-09,2025-08-28,2025-08-28,ativo

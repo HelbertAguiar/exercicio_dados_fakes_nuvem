@@ -1,0 +1,6 @@
+﻿nome_instituicao,curso_nome,curso_codigo,quantidade_periodos,carga_horaria_por_disciplina_max,disciplinas_por_periodo,media_alunos_turma
+Faculdade Prodata,Engenharia de Computação,1,10,92,8,50
+Faculdade Prodata,Ciencia da Computação,2,8,64,8,62
+Faculdade Prodata,Sistemas de Informação,3,8,64,7,48
+Faculdade Prodata,Jogos Digitais,4,6,48,6,32
+Faculdade Prodata,Tecnologo Rede Digitais,5,4,48,6,28

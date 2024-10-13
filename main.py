@@ -1,12 +1,11 @@
 from aluno import Aluno
 from curso import Curso
 from disciplina import Disciplina
-from pprint import pprint
 import random
 import pandas as pd
 import os
 
-def salvar_csv_lista(lista, nome_arquivo):
+def salva_lista_para_csv(lista, nome_arquivo):
     # Verifica se a lista está vazia
     if not lista:
         print("A lista está vazia, nada para salvar.")
@@ -43,7 +42,7 @@ def salvar_csv_lista(lista, nome_arquivo):
 
 lista_cursos_disponiveis = Curso.busca_lista_cursos_disponiveis()
 lista_disciplinas_disponiveis = Disciplina.busca_lista_disciplinas_disponiveis()
-lista_aluno = Aluno.gera_aluno_aleatorio(quantidade = 2)
+lista_aluno = Aluno.gera_aluno_aleatorio(quantidade = 500)
 lista_relacionamento_cursos_disciplinas_alunos = []
 tipos_atividades = ['exercicio', 'trabalho', 'avaliacao']
 lista_atividades_alunos = []
@@ -59,12 +58,17 @@ for aluno in lista_aluno:
     nota_aluno = Disciplina.gerar_nota_disciplina()
     frequencia = Disciplina.gerar_frequencia_disciplina()
     periodo = f'{random.choice(['01', '02'])}/{random.choice(['2024', '2023', '2022'])}'
+    motivo_reprovacao = 'n/a'
     if nota_aluno >= 70 and frequencia >= 75: 
         situacao = 'aprovado'
     elif nota_aluno < 70 and nota_aluno >= 60 and frequencia >= 75: 
         situacao = 'exame_especial'
     else: 
         situacao = 'reprovado'
+        if frequencia < 75: 
+            motivo_reprovacao = 'frequencia'
+        else:
+            motivo_reprovacao = 'nota'
     
     lista_relacionamento_cursos_disciplinas_alunos.append({
         'curso_nome'            : curso.curso_nome,
@@ -75,7 +79,8 @@ for aluno in lista_aluno:
         'aluno_nome_completo'   : aluno.nome_completo,
         'nota_aluno'            : nota_aluno,
         'status'                : situacao,
-        'frequencia_aluno'      : frequencia
+        'frequencia_aluno'      : frequencia,
+        'motivo_reprovacao'     : motivo_reprovacao
     })
 
     # Gerar atividades para o aluno
@@ -96,15 +101,10 @@ for aluno in lista_aluno:
             'nota_obtida': nota_obtida
         })
 
-
-df = pd.DataFrame({
-    curso.curso_nome: [curso.curso_nome for curso in lista_cursos_disponiveis]
-})
-
 # Criando o DataFrame dinamicamente
-salvar_csv_lista(lista_cursos_disponiveis, 'cursos.csv')
-salvar_csv_lista(lista_disciplinas_disponiveis, 'disciplinas.csv')
-salvar_csv_lista(lista_aluno, 'alunos.csv')
-salvar_csv_lista(lista_relacionamento_cursos_disciplinas_alunos, 'relacionamento_alunos_cursos_disciplinas.csv')
-salvar_csv_lista(lista_atividades_alunos, 'atividades_alunos.csv')
+salva_lista_para_csv(lista_cursos_disponiveis, 'cursos.csv')
+salva_lista_para_csv(lista_disciplinas_disponiveis, 'disciplinas.csv')
+salva_lista_para_csv(lista_aluno, 'alunos.csv')
+salva_lista_para_csv(lista_relacionamento_cursos_disciplinas_alunos, 'relacionamento_alunos_cursos_disciplinas.csv')
+salva_lista_para_csv(lista_atividades_alunos, 'atividades_alunos.csv')
 

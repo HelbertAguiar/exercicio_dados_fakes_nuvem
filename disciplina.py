@@ -82,7 +82,7 @@ class Disciplina:
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
                                 random.randint(carga_horaria_minima, carga_horaria_maxima), 'Análise de Algoritmos'))
 
-            if curso_nome == "Sistemas de Informações":
+            if curso_nome == "Sistemas de Informação":
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
                                 random.randint(carga_horaria_minima, carga_horaria_maxima), 'Algoritmos e Estruturas de Dados'))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 

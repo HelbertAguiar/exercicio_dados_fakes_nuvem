@@ -1,0 +1,501 @@
+﻿curso_nome,curso_codigo,disciplina_codigo,periodo,aluno_matricula,aluno_nome_completo,nota_aluno,status,frequencia_aluno,motivo_reprovacao
+Tecnologo Rede Digitais,5,21,02/2023,461333,Maria Flor Viana,74,aprovado,97,n/a
+Sistemas de Informação,3,15,01/2023,275111,Dr. João Guilherme Novaes,51,reprovado,86,nota
+Engenharia de Computação,1,5,02/2023,467952,Thales Monteiro,40,reprovado,81,nota
+Ciencia da Computação,2,9,01/2023,234916,Murilo Martins,72,reprovado,69,frequencia
+Jogos Digitais,4,16,01/2022,193818,Sr. Antony da Paz,57,reprovado,78,nota
+Tecnologo Rede Digitais,5,25,01/2023,257675,Lucas Lima,76,aprovado,85,n/a
+Jogos Digitais,4,17,01/2024,556406,Sra. Mariane da Mata,33,reprovado,58,frequencia
+Tecnologo Rede Digitais,5,21,02/2023,392900,Ágatha Pereira,17,reprovado,85,nota
+Jogos Digitais,4,16,01/2024,920422,Dr. Vitor Hugo Fogaça,85,reprovado,59,frequencia
+Tecnologo Rede Digitais,5,23,01/2022,431465,Bianca Carvalho,76,aprovado,95,n/a
+Tecnologo Rede Digitais,5,22,02/2022,781144,Mariane Aparecida,42,reprovado,77,nota
+Engenharia de Computação,1,1,02/2023,527386,Paulo Vasconcelos,26,reprovado,58,frequencia
+Ciencia da Computação,2,8,02/2023,817214,Davi Luiz Garcia,81,reprovado,35,frequencia
+Jogos Digitais,4,20,01/2022,934402,Léo Nascimento,74,aprovado,85,n/a
+Sistemas de Informação,3,11,02/2023,519938,Marina Cirino,93,reprovado,26,frequencia
+Engenharia de Computação,1,5,01/2022,461173,Rael Silva,9,reprovado,53,frequencia
+Ciencia da Computação,2,10,02/2022,220980,Dr. Davi Luiz Moreira,88,aprovado,86,n/a
+Engenharia de Computação,1,3,01/2022,403759,João Guilherme Fonseca,52,reprovado,81,nota
+Ciencia da Computação,2,8,02/2022,721188,Daniela Souza,78,aprovado,95,n/a
+Ciencia da Computação,2,6,02/2022,814593,Mariane Guerra,86,reprovado,54,frequencia
+Ciencia da Computação,2,7,02/2023,175723,Alexandre Moraes,99,aprovado,79,n/a
+Sistemas de Informação,3,14,01/2024,999356,Luara Pereira,52,reprovado,80,nota
+Jogos Digitais,4,16,02/2023,857346,Caroline Rocha,80,aprovado,88,n/a
+Engenharia de Computação,1,4,01/2024,854558,Emanuella Campos,77,aprovado,81,n/a
+Jogos Digitais,4,18,01/2024,882548,André da Mata,92,reprovado,16,frequencia
+Sistemas de Informação,3,12,01/2022,409781,Mariane Vasconcelos,21,reprovado,72,frequencia
+Jogos Digitais,4,18,01/2024,690921,João Lucas Rodrigues,21,reprovado,77,nota
+Engenharia de Computação,1,4,01/2024,856926,Thomas Martins,84,aprovado,96,n/a
+Ciencia da Computação,2,10,02/2023,781140,Yago Silveira,76,reprovado,72,frequencia
+Ciencia da Computação,2,8,01/2023,495793,Théo Ramos,1,reprovado,15,frequencia
+Jogos Digitais,4,18,01/2024,335437,Davi Miguel Mendes,73,aprovado,94,n/a
+Engenharia de Computação,1,5,01/2022,817898,Dra. Mirella da Conceição,66,exame_especial,95,n/a
+Sistemas de Informação,3,14,02/2023,244663,Davi Lucca Santos,97,reprovado,73,frequencia
+Tecnologo Rede Digitais,5,23,01/2022,396831,Ian Fernandes,95,reprovado,35,frequencia
+Ciencia da Computação,2,6,02/2022,225151,Sra. Maria Sophia Siqueira,32,reprovado,80,nota
+Engenharia de Computação,1,1,02/2023,215857,Oliver da Cunha,66,reprovado,17,frequencia
+Engenharia de Computação,1,2,02/2024,146871,Luan das Neves,99,reprovado,73,frequencia
+Jogos Digitais,4,16,02/2024,314528,Dr. Bryan Albuquerque,0,reprovado,77,nota
+Engenharia de Computação,1,1,02/2024,135253,Sr. Cauê Barros,21,reprovado,40,frequencia
+Jogos Digitais,4,17,01/2024,694803,Lara Campos,92,aprovado,76,n/a
+Ciencia da Computação,2,8,01/2023,853888,Maria Laura Novaes,7,reprovado,82,nota
+Engenharia de Computação,1,5,02/2024,536479,Sr. Lucas Pastor,90,reprovado,30,frequencia
+Tecnologo Rede Digitais,5,25,02/2022,247619,Brenda Barbosa,83,reprovado,23,frequencia
+Ciencia da Computação,2,7,02/2023,582634,Eloah Guerra,72,reprovado,73,frequencia
+Ciencia da Computação,2,6,02/2023,285508,Davi Lucas Albuquerque,1,reprovado,76,nota
+Sistemas de Informação,3,15,01/2024,163564,Asafe Vasconcelos,65,reprovado,29,frequencia
+Engenharia de Computação,1,1,01/2022,739182,Theodoro Pastor,80,reprovado,11,frequencia
+Tecnologo Rede Digitais,5,25,02/2022,129721,Caio Viana,75,reprovado,41,frequencia
+Jogos Digitais,4,17,02/2022,196757,Yan Azevedo,76,aprovado,89,n/a
+Ciencia da Computação,2,6,02/2024,813277,Laura Silveira,82,aprovado,94,n/a
+Tecnologo Rede Digitais,5,25,01/2022,320106,Yasmin Sampaio,43,reprovado,85,nota
+Ciencia da Computação,2,9,02/2024,515300,Maria Flor Moreira,99,reprovado,18,frequencia
+Engenharia de Computação,1,1,02/2022,200333,Srta. Isabela Lopes,79,aprovado,95,n/a
+Tecnologo Rede Digitais,5,22,02/2022,856969,Ana Júlia Novaes,22,reprovado,63,frequencia
+Jogos Digitais,4,17,01/2022,195784,Vitor Hugo Cavalcante,94,aprovado,96,n/a
+Tecnologo Rede Digitais,5,21,01/2024,341285,Joana Macedo,98,reprovado,15,frequencia
+Jogos Digitais,4,20,01/2022,671172,Srta. Ana Liz Nunes,93,aprovado,84,n/a
+Tecnologo Rede Digitais,5,24,01/2022,389235,Laís Vieira,85,aprovado,100,n/a
+Ciencia da Computação,2,10,02/2024,862281,Isaque da Conceição,95,aprovado,80,n/a
+Jogos Digitais,4,16,01/2024,245023,Paulo da Rosa,88,reprovado,40,frequencia
+Ciencia da Computação,2,10,01/2023,757368,Dr. Carlos Eduardo Siqueira,81,reprovado,14,frequencia
+Jogos Digitais,4,16,01/2024,742619,Isaque Macedo,92,aprovado,97,n/a
+Ciencia da Computação,2,6,02/2023,550161,Natália Montenegro,72,aprovado,92,n/a
+Engenharia de Computação,1,3,02/2023,734126,Benjamin Gonçalves,4,reprovado,50,frequencia
+Tecnologo Rede Digitais,5,21,01/2023,828612,Sophie Jesus,35,reprovado,44,frequencia
+Ciencia da Computação,2,7,02/2024,847926,Elisa da Mata,93,aprovado,84,n/a
+Ciencia da Computação,2,9,01/2024,912420,Sr. Pedro Brito,97,reprovado,1,frequencia
+Ciencia da Computação,2,7,02/2024,906343,Sara Porto,82,aprovado,76,n/a
+Tecnologo Rede Digitais,5,25,02/2023,395279,Catarina Cavalcanti,74,aprovado,85,n/a
+Tecnologo Rede Digitais,5,23,01/2022,522484,Maya Câmara,90,reprovado,20,frequencia
+Jogos Digitais,4,19,01/2023,952339,Rael Jesus,90,reprovado,23,frequencia
+Tecnologo Rede Digitais,5,24,02/2023,785741,Ana Lívia Brito,15,reprovado,77,nota
+Engenharia de Computação,1,5,02/2024,112864,Anthony Montenegro,40,reprovado,57,frequencia
+Tecnologo Rede Digitais,5,23,02/2022,421501,Rafaela Rodrigues,87,reprovado,6,frequencia
+Engenharia de Computação,1,5,01/2022,519099,Théo Novais,75,aprovado,86,n/a
+Tecnologo Rede Digitais,5,24,01/2022,340117,Joana Souza,67,reprovado,47,frequencia
+Tecnologo Rede Digitais,5,22,01/2023,770719,André Cassiano,66,exame_especial,83,n/a
+Engenharia de Computação,1,1,01/2023,260684,Henry Gabriel Peixoto,71,aprovado,81,n/a
+Engenharia de Computação,1,1,02/2024,726364,Isaque Garcia,91,aprovado,82,n/a
+Jogos Digitais,4,19,02/2024,185163,Otto Aragão,100,aprovado,79,n/a
+Engenharia de Computação,1,5,02/2024,688072,Guilherme Brito,6,reprovado,79,nota
+Ciencia da Computação,2,10,02/2023,788237,Sophia Dias,83,aprovado,89,n/a
+Engenharia de Computação,1,1,02/2022,186175,Sr. Henry Gabriel Campos,2,reprovado,90,nota
+Ciencia da Computação,2,8,01/2022,807768,Sr. Mateus Garcia,52,reprovado,43,frequencia
+Engenharia de Computação,1,4,02/2022,811346,Gael Sá,77,reprovado,1,frequencia
+Engenharia de Computação,1,1,01/2022,860977,João Miguel Moreira,95,aprovado,97,n/a
+Engenharia de Computação,1,2,02/2022,490297,Dr. Luiz Otávio Melo,28,reprovado,80,nota
+Ciencia da Computação,2,8,01/2022,697821,Danilo Santos,100,reprovado,9,frequencia
+Engenharia de Computação,1,5,02/2023,896276,Maria Cecília Caldeira,41,reprovado,29,frequencia
+Tecnologo Rede Digitais,5,23,01/2022,852338,Bernardo Cavalcanti,95,aprovado,93,n/a
+Jogos Digitais,4,16,01/2023,894315,Josué Albuquerque,51,reprovado,32,frequencia
+Ciencia da Computação,2,7,01/2022,636278,Raul Garcia,88,aprovado,91,n/a
+Ciencia da Computação,2,8,02/2024,415295,Sr. Henry da Cunha,99,aprovado,76,n/a
+Ciencia da Computação,2,9,01/2023,292553,Eduardo Rodrigues,81,aprovado,83,n/a
+Jogos Digitais,4,20,02/2023,495416,Maria Luísa da Luz,77,aprovado,95,n/a
+Sistemas de Informação,3,12,02/2024,192095,Evelyn Guerra,83,aprovado,96,n/a
+Sistemas de Informação,3,13,01/2024,948393,Nicolas Fonseca,71,reprovado,68,frequencia
+Sistemas de Informação,3,12,01/2024,443855,Dr. Enrico Viana,84,aprovado,90,n/a
+Jogos Digitais,4,20,02/2024,791747,Matteo Albuquerque,52,reprovado,76,nota
+Sistemas de Informação,3,11,02/2023,526706,Otávio Fogaça,71,aprovado,94,n/a
+Sistemas de Informação,3,13,02/2022,932994,Benicio Rios,1,reprovado,73,frequencia
+Sistemas de Informação,3,15,01/2022,448517,Dra. Isis Marques,76,aprovado,91,n/a
+Engenharia de Computação,1,4,02/2023,925294,Alice Cassiano,60,reprovado,53,frequencia
+Engenharia de Computação,1,2,02/2022,368505,Srta. Heloísa Mendonça,87,aprovado,77,n/a
+Ciencia da Computação,2,8,02/2022,884082,Srta. Aurora Câmara,35,reprovado,63,frequencia
+Sistemas de Informação,3,12,02/2023,414619,Eloá Lima,99,aprovado,93,n/a
+Ciencia da Computação,2,7,01/2024,962788,Thales Fogaça,0,reprovado,91,nota
+Jogos Digitais,4,19,02/2022,284886,Asafe Oliveira,77,reprovado,60,frequencia
+Tecnologo Rede Digitais,5,23,02/2022,682825,Srta. Cecília Caldeira,94,aprovado,96,n/a
+Engenharia de Computação,1,5,02/2023,373010,Maysa Almeida,98,aprovado,82,n/a
+Sistemas de Informação,3,14,01/2022,763885,Lara da Rosa,12,reprovado,50,frequencia
+Ciencia da Computação,2,7,01/2024,289624,Eduarda Cavalcante,78,aprovado,91,n/a
+Sistemas de Informação,3,15,01/2024,389234,Otávio Novaes,85,aprovado,85,n/a
+Ciencia da Computação,2,8,01/2024,769544,Dr. Enrico Moura,3,reprovado,79,nota
+Ciencia da Computação,2,10,01/2022,998518,Letícia Castro,78,reprovado,16,frequencia
+Ciencia da Computação,2,8,02/2024,179309,Maitê Ribeiro,86,reprovado,42,frequencia
+Jogos Digitais,4,19,01/2024,479424,Sra. Ana Julia Santos,49,reprovado,20,frequencia
+Sistemas de Informação,3,15,01/2024,983910,Eduardo Porto,89,aprovado,82,n/a
+Sistemas de Informação,3,11,01/2022,705491,Ágatha Teixeira,32,reprovado,95,nota
+Sistemas de Informação,3,14,02/2024,325713,Rafaela Brito,3,reprovado,2,frequencia
+Tecnologo Rede Digitais,5,21,01/2023,522190,Pietra Novais,43,reprovado,89,nota
+Sistemas de Informação,3,15,01/2023,168492,Benicio Casa Grande,53,reprovado,12,frequencia
+Jogos Digitais,4,19,02/2022,525493,Fernanda Vieira,5,reprovado,86,nota
+Ciencia da Computação,2,10,02/2023,297326,Sra. Caroline Guerra,41,reprovado,82,nota
+Engenharia de Computação,1,2,02/2024,560753,Breno da Costa,50,reprovado,45,frequencia
+Jogos Digitais,4,20,02/2022,811052,Sra. Ágatha Vieira,92,aprovado,96,n/a
+Engenharia de Computação,1,3,01/2023,648005,Mirella Duarte,96,reprovado,27,frequencia
+Ciencia da Computação,2,6,02/2022,779349,Maria Isis Gomes,18,reprovado,84,nota
+Engenharia de Computação,1,4,01/2023,270865,Ravi Moura,82,reprovado,36,frequencia
+Tecnologo Rede Digitais,5,25,01/2024,323255,Dr. Vicente Garcia,76,reprovado,72,frequencia
+Jogos Digitais,4,18,01/2023,395623,Aurora Albuquerque,76,aprovado,100,n/a
+Ciencia da Computação,2,8,01/2023,398962,Ana Castro,88,aprovado,100,n/a
+Jogos Digitais,4,19,02/2023,911461,Maria Júlia Vargas,76,aprovado,75,n/a
+Sistemas de Informação,3,14,02/2023,784723,Sra. Maria Liz Teixeira,84,aprovado,75,n/a
+Ciencia da Computação,2,6,02/2023,755129,Sabrina Andrade,86,aprovado,77,n/a
+Jogos Digitais,4,20,01/2024,424750,Lorenzo Nascimento,72,aprovado,89,n/a
+Engenharia de Computação,1,5,01/2022,256896,Dra. Luara da Cruz,49,reprovado,97,nota
+Tecnologo Rede Digitais,5,24,02/2023,477228,Ana Beatriz Souza,48,reprovado,74,frequencia
+Engenharia de Computação,1,1,02/2022,419996,Benjamin Alves,84,reprovado,74,frequencia
+Jogos Digitais,4,18,01/2024,144430,Sr. Luiz Henrique Azevedo,85,reprovado,71,frequencia
+Tecnologo Rede Digitais,5,23,01/2024,813371,Dr. Theo Rodrigues,41,reprovado,80,nota
+Engenharia de Computação,1,5,02/2022,703954,Hellena Melo,22,reprovado,82,nota
+Jogos Digitais,4,20,02/2023,242469,Emanuelly da Luz,74,aprovado,97,n/a
+Ciencia da Computação,2,10,02/2022,712173,Diego Correia,8,reprovado,89,nota
+Ciencia da Computação,2,6,02/2024,787892,Gustavo Pastor,55,reprovado,95,nota
+Jogos Digitais,4,16,01/2022,785480,Renan Cirino,90,reprovado,54,frequencia
+Engenharia de Computação,1,2,01/2022,433319,Aurora da Paz,82,reprovado,50,frequencia
+Jogos Digitais,4,19,01/2023,328033,Theo Pacheco,71,aprovado,81,n/a
+Jogos Digitais,4,20,02/2023,524757,Bento Nunes,71,aprovado,81,n/a
+Sistemas de Informação,3,14,02/2024,817024,Dr. Benjamim Leão,77,aprovado,86,n/a
+Ciencia da Computação,2,10,01/2024,199426,Milena Leão,91,aprovado,84,n/a
+Tecnologo Rede Digitais,5,22,01/2024,204881,Yasmin Nunes,29,reprovado,90,nota
+Tecnologo Rede Digitais,5,25,01/2022,238533,Luiz Otávio Monteiro,59,reprovado,99,nota
+Ciencia da Computação,2,7,01/2023,218412,Sr. Carlos Eduardo Pacheco,83,aprovado,85,n/a
+Tecnologo Rede Digitais,5,21,01/2022,331919,Davi Lucas Correia,24,reprovado,1,frequencia
+Engenharia de Computação,1,3,01/2024,969809,Vitor Hugo da Mota,72,aprovado,97,n/a
+Tecnologo Rede Digitais,5,21,01/2023,998669,Dr. Otávio Cardoso,47,reprovado,92,nota
+Ciencia da Computação,2,8,01/2023,297366,Fernando Aparecida,92,reprovado,58,frequencia
+Engenharia de Computação,1,5,01/2024,605301,Sr. Gustavo Melo,96,aprovado,75,n/a
+Sistemas de Informação,3,13,02/2024,900865,Gabriel Pires,14,reprovado,22,frequencia
+Jogos Digitais,4,17,01/2024,381016,Maria Clara Rodrigues,83,reprovado,72,frequencia
+Ciencia da Computação,2,10,02/2024,351953,Mariane Vasconcelos,74,reprovado,71,frequencia
+Sistemas de Informação,3,14,02/2022,288620,Ravi Rocha,88,reprovado,54,frequencia
+Tecnologo Rede Digitais,5,22,02/2024,426660,Sr. Davi Lucca Pastor,77,aprovado,88,n/a
+Tecnologo Rede Digitais,5,24,01/2024,574515,Isadora Montenegro,76,reprovado,73,frequencia
+Engenharia de Computação,1,3,02/2022,462166,Marcelo da Cruz,2,reprovado,94,nota
+Jogos Digitais,4,20,01/2024,909448,Aylla Santos,77,reprovado,6,frequencia
+Sistemas de Informação,3,15,01/2023,483280,Ana Clara Nunes,52,reprovado,99,nota
+Jogos Digitais,4,17,01/2022,945352,Isaque Nogueira,80,aprovado,87,n/a
+Sistemas de Informação,3,11,02/2023,205533,Dra. Rafaela Gonçalves,72,aprovado,78,n/a
+Tecnologo Rede Digitais,5,21,01/2023,349656,Maria Luiza Siqueira,79,aprovado,89,n/a
+Ciencia da Computação,2,9,02/2024,812196,Cecília Barros,86,reprovado,74,frequencia
+Sistemas de Informação,3,12,01/2023,818007,José Ramos,9,reprovado,11,frequencia
+Ciencia da Computação,2,9,01/2023,389056,Miguel Pimenta,98,aprovado,87,n/a
+Tecnologo Rede Digitais,5,22,01/2023,515766,Dra. Luna Duarte,86,reprovado,4,frequencia
+Tecnologo Rede Digitais,5,23,01/2022,244927,Alana Moreira,93,aprovado,84,n/a
+Tecnologo Rede Digitais,5,24,02/2023,382859,Bruno da Mata,89,aprovado,91,n/a
+Ciencia da Computação,2,8,01/2023,457834,Danilo Moreira,46,reprovado,77,nota
+Engenharia de Computação,1,2,02/2024,395099,Emilly Fogaça,14,reprovado,72,frequencia
+Jogos Digitais,4,17,02/2022,250464,Dra. Sara Cavalcanti,84,reprovado,71,frequencia
+Sistemas de Informação,3,12,02/2022,805271,Letícia Câmara,98,reprovado,55,frequencia
+Tecnologo Rede Digitais,5,22,01/2022,741739,Nicole Marques,78,aprovado,96,n/a
+Jogos Digitais,4,18,01/2022,803360,Alexandre Rezende,98,reprovado,48,frequencia
+Sistemas de Informação,3,11,02/2022,815239,Sr. Davi Lucca Lima,31,reprovado,74,frequencia
+Tecnologo Rede Digitais,5,21,02/2022,465814,Helena Rocha,95,reprovado,73,frequencia
+Sistemas de Informação,3,13,01/2024,559702,Ana Júlia Ferreira,92,aprovado,76,n/a
+Sistemas de Informação,3,11,02/2022,573246,Enrico Correia,94,reprovado,41,frequencia
+Tecnologo Rede Digitais,5,22,02/2024,947670,Calebe Ribeiro,95,aprovado,79,n/a
+Tecnologo Rede Digitais,5,24,02/2024,609696,Fernando Araújo,86,reprovado,31,frequencia
+Engenharia de Computação,1,5,02/2022,550652,Luiz Henrique Sousa,20,reprovado,71,frequencia
+Tecnologo Rede Digitais,5,24,01/2024,405284,Benício Carvalho,18,reprovado,53,frequencia
+Ciencia da Computação,2,10,02/2022,963761,João Felipe Pimenta,1,reprovado,79,nota
+Tecnologo Rede Digitais,5,23,01/2022,812705,Sr. Yago Campos,63,exame_especial,83,n/a
+Ciencia da Computação,2,9,02/2023,650843,Arthur Vargas,90,reprovado,37,frequencia
+Sistemas de Informação,3,15,02/2023,941748,Ian Cassiano,79,aprovado,80,n/a
+Jogos Digitais,4,18,01/2023,903004,Enzo Gabriel Rodrigues,74,aprovado,97,n/a
+Sistemas de Informação,3,15,01/2024,432880,Ana Clara Araújo,68,reprovado,72,frequencia
+Ciencia da Computação,2,8,01/2023,519312,Otto Sousa,76,reprovado,15,frequencia
+Tecnologo Rede Digitais,5,24,01/2023,872286,Dr. Arthur Gabriel Monteiro,86,aprovado,99,n/a
+Sistemas de Informação,3,12,01/2023,367766,Yan Correia,89,aprovado,96,n/a
+Jogos Digitais,4,20,01/2022,116719,Catarina Freitas,78,reprovado,13,frequencia
+Ciencia da Computação,2,6,01/2022,168697,Esther Vasconcelos,79,aprovado,85,n/a
+Tecnologo Rede Digitais,5,25,01/2024,534565,Pietro Viana,73,aprovado,80,n/a
+Engenharia de Computação,1,5,02/2024,188109,Manuella Cavalcanti,85,aprovado,99,n/a
+Tecnologo Rede Digitais,5,24,01/2024,267806,Sr. José Pedro Guerra,60,reprovado,6,frequencia
+Sistemas de Informação,3,12,01/2024,639663,Luana Pereira,98,aprovado,93,n/a
+Jogos Digitais,4,20,02/2022,168601,Melina Novaes,2,reprovado,94,nota
+Ciencia da Computação,2,8,01/2023,982387,Gustavo Henrique Araújo,81,reprovado,71,frequencia
+Ciencia da Computação,2,9,02/2022,220502,Pietro Pereira,71,reprovado,22,frequencia
+Engenharia de Computação,1,3,02/2022,131997,Lara Câmara,91,reprovado,28,frequencia
+Ciencia da Computação,2,9,01/2024,966097,Luan Brito,95,reprovado,3,frequencia
+Engenharia de Computação,1,5,01/2023,603553,Levi da Cunha,78,reprovado,41,frequencia
+Jogos Digitais,4,20,01/2023,789500,Heitor Caldeira,96,aprovado,75,n/a
+Engenharia de Computação,1,2,02/2024,394969,Vitor Gabriel da Cunha,6,reprovado,92,nota
+Ciencia da Computação,2,9,02/2024,602145,Melissa Castro,83,aprovado,78,n/a
+Engenharia de Computação,1,1,01/2024,663025,Maria Eduarda Gonçalves,76,aprovado,90,n/a
+Engenharia de Computação,1,3,02/2024,962522,João Miguel Almeida,34,reprovado,51,frequencia
+Tecnologo Rede Digitais,5,22,02/2024,702829,Pietro Brito,94,reprovado,61,frequencia
+Ciencia da Computação,2,7,01/2022,525301,Brenda Moraes,71,reprovado,72,frequencia
+Ciencia da Computação,2,6,01/2022,328798,João Miguel Gomes,56,reprovado,33,frequencia
+Jogos Digitais,4,18,01/2023,849335,Ana Lívia Sales,75,aprovado,89,n/a
+Sistemas de Informação,3,14,02/2023,988494,Ana Luiza Vargas,21,reprovado,89,nota
+Engenharia de Computação,1,1,02/2022,155306,Olivia Duarte,93,aprovado,98,n/a
+Tecnologo Rede Digitais,5,23,02/2022,885524,Maria Abreu,100,reprovado,41,frequencia
+Jogos Digitais,4,19,02/2023,746993,Dr. Eduardo Monteiro,74,aprovado,75,n/a
+Sistemas de Informação,3,12,02/2023,586343,Esther Moura,14,reprovado,74,frequencia
+Engenharia de Computação,1,3,02/2022,842912,Cecilia Martins,73,aprovado,96,n/a
+Ciencia da Computação,2,7,02/2024,898074,Dra. Maria Cecília da Cunha,89,aprovado,81,n/a
+Engenharia de Computação,1,1,02/2024,290839,Maria Eduarda Melo,89,aprovado,76,n/a
+Engenharia de Computação,1,4,01/2022,805739,Igor das Neves,77,reprovado,51,frequencia
+Sistemas de Informação,3,11,02/2023,360798,Milena Pires,74,aprovado,95,n/a
+Jogos Digitais,4,20,02/2022,323815,Dr. Vicente Siqueira,85,aprovado,98,n/a
+Ciencia da Computação,2,8,02/2022,255296,Leandro Vasconcelos,71,aprovado,96,n/a
+Tecnologo Rede Digitais,5,25,01/2022,689733,Dr. Luiz Otávio Rezende,53,reprovado,63,frequencia
+Tecnologo Rede Digitais,5,21,02/2024,491338,Milena Dias,74,reprovado,21,frequencia
+Ciencia da Computação,2,9,02/2024,843420,Mathias Viana,78,aprovado,81,n/a
+Jogos Digitais,4,19,02/2024,482519,Antony Marques,97,aprovado,97,n/a
+Engenharia de Computação,1,5,01/2022,110251,Lívia Sá,41,reprovado,24,frequencia
+Engenharia de Computação,1,4,01/2023,334674,Dr. Nathan Leão,77,reprovado,27,frequencia
+Tecnologo Rede Digitais,5,21,02/2022,476589,Léo Correia,100,aprovado,98,n/a
+Ciencia da Computação,2,6,02/2024,973512,Heloísa Oliveira,72,reprovado,25,frequencia
+Sistemas de Informação,3,13,01/2022,346910,Isis Gonçalves,95,aprovado,82,n/a
+Ciencia da Computação,2,6,02/2024,523928,Dr. Miguel Borges,84,reprovado,74,frequencia
+Jogos Digitais,4,19,02/2022,274506,Marcela Pinto,89,aprovado,96,n/a
+Ciencia da Computação,2,9,02/2022,736417,Emanuelly Duarte,100,reprovado,34,frequencia
+Engenharia de Computação,1,4,01/2023,620945,Sofia Alves,90,reprovado,30,frequencia
+Tecnologo Rede Digitais,5,24,02/2022,650401,Nina da Cunha,86,reprovado,8,frequencia
+Engenharia de Computação,1,5,02/2024,534370,Pietra Martins,85,reprovado,36,frequencia
+Jogos Digitais,4,20,01/2023,671494,Vinicius Vasconcelos,18,reprovado,85,nota
+Jogos Digitais,4,18,01/2024,503165,Sra. Sophia Alves,41,reprovado,85,nota
+Engenharia de Computação,1,1,02/2023,851942,Lorena da Rosa,81,reprovado,58,frequencia
+Jogos Digitais,4,20,01/2023,177650,Dra. Laís Jesus,99,aprovado,84,n/a
+Sistemas de Informação,3,11,01/2024,515408,Kevin Fogaça,88,aprovado,79,n/a
+Sistemas de Informação,3,15,01/2023,715658,Sara da Rosa,86,aprovado,91,n/a
+Jogos Digitais,4,18,02/2024,480202,Dr. Thiago Farias,83,reprovado,73,frequencia
+Jogos Digitais,4,17,01/2024,710218,Lara Sales,88,reprovado,52,frequencia
+Sistemas de Informação,3,14,01/2023,786545,Valentina Albuquerque,9,reprovado,54,frequencia
+Ciencia da Computação,2,7,02/2023,110754,Nicolas das Neves,51,reprovado,76,nota
+Tecnologo Rede Digitais,5,23,01/2024,739916,Ana Luiza Guerra,78,aprovado,96,n/a
+Sistemas de Informação,3,15,01/2024,654286,Thomas Silveira,68,exame_especial,95,n/a
+Tecnologo Rede Digitais,5,22,02/2022,611952,Pietra da Paz,86,aprovado,91,n/a
+Tecnologo Rede Digitais,5,24,02/2023,323254,Dr. Igor da Mata,33,reprovado,99,nota
+Ciencia da Computação,2,8,02/2024,166010,Diogo Cassiano,7,reprovado,75,nota
+Jogos Digitais,4,19,01/2024,813027,Pietro da Costa,74,reprovado,14,frequencia
+Sistemas de Informação,3,14,02/2024,160567,Dra. Evelyn Nunes,84,reprovado,2,frequencia
+Engenharia de Computação,1,2,01/2024,758042,Theodoro Teixeira,40,reprovado,32,frequencia
+Sistemas de Informação,3,14,02/2023,623026,Maria Alice Rios,95,aprovado,79,n/a
+Engenharia de Computação,1,2,01/2022,172057,Heloísa Albuquerque,99,reprovado,52,frequencia
+Ciencia da Computação,2,9,01/2023,975464,Ana Vitória Costela,75,aprovado,80,n/a
+Engenharia de Computação,1,4,01/2023,438566,Dra. Luísa Garcia,100,aprovado,85,n/a
+Engenharia de Computação,1,2,02/2023,196012,Brenda Ramos,76,aprovado,89,n/a
+Sistemas de Informação,3,13,02/2023,637385,Dr. Henrique Brito,100,reprovado,1,frequencia
+Tecnologo Rede Digitais,5,23,02/2022,368632,Pedro Lucas Farias,78,reprovado,20,frequencia
+Tecnologo Rede Digitais,5,24,01/2022,151961,Marcelo Machado,61,exame_especial,85,n/a
+Jogos Digitais,4,16,01/2024,747261,Francisco da Conceição,80,reprovado,70,frequencia
+Sistemas de Informação,3,15,01/2024,862982,Maria Alice Santos,78,aprovado,97,n/a
+Ciencia da Computação,2,6,02/2023,192938,Gabrielly Pinto,31,reprovado,85,nota
+Tecnologo Rede Digitais,5,23,02/2022,213623,Bárbara Azevedo,84,reprovado,37,frequencia
+Engenharia de Computação,1,1,01/2022,307396,Davi Lucas Teixeira,75,reprovado,56,frequencia
+Engenharia de Computação,1,2,02/2023,861182,Elisa Mendes,42,reprovado,14,frequencia
+Jogos Digitais,4,20,02/2023,324777,Kamilly Viana,72,aprovado,86,n/a
+Jogos Digitais,4,20,02/2022,710648,Valentina Brito,100,aprovado,84,n/a
+Tecnologo Rede Digitais,5,24,02/2023,370369,Breno Fernandes,48,reprovado,40,frequencia
+Ciencia da Computação,2,8,01/2023,416107,Ana Liz da Mota,76,reprovado,10,frequencia
+Jogos Digitais,4,17,02/2022,298029,Cecília Sales,81,reprovado,70,frequencia
+Sistemas de Informação,3,13,01/2024,289515,Enzo Brito,53,reprovado,64,frequencia
+Ciencia da Computação,2,9,01/2024,762811,Oliver Pimenta,44,reprovado,75,nota
+Ciencia da Computação,2,9,02/2023,796308,Noah Freitas,13,reprovado,84,nota
+Tecnologo Rede Digitais,5,24,01/2022,352438,Dra. Isabel Dias,85,aprovado,88,n/a
+Engenharia de Computação,1,2,02/2024,674499,Dante da Cunha,76,aprovado,92,n/a
+Sistemas de Informação,3,12,02/2023,276650,Leonardo Pacheco,62,reprovado,15,frequencia
+Sistemas de Informação,3,14,02/2023,157643,Dom Barbosa,6,reprovado,45,frequencia
+Jogos Digitais,4,19,02/2022,288804,Evelyn Gomes,87,aprovado,80,n/a
+Engenharia de Computação,1,4,02/2024,729490,Clara Aparecida,26,reprovado,84,nota
+Tecnologo Rede Digitais,5,25,01/2023,658265,Arthur Freitas,62,exame_especial,76,n/a
+Engenharia de Computação,1,1,02/2022,575875,Joaquim Cassiano,43,reprovado,61,frequencia
+Sistemas de Informação,3,14,01/2024,171435,Julia Abreu,98,aprovado,98,n/a
+Tecnologo Rede Digitais,5,25,02/2022,104518,Joana Barros,5,reprovado,16,frequencia
+Tecnologo Rede Digitais,5,23,01/2022,480307,Francisco Ribeiro,60,reprovado,72,frequencia
+Jogos Digitais,4,20,01/2022,897257,Sr. Isaque Fonseca,82,reprovado,1,frequencia
+Engenharia de Computação,1,1,02/2024,246659,Dr. Marcos Vinicius Sá,94,aprovado,89,n/a
+Jogos Digitais,4,19,01/2024,267112,Dr. Guilherme Pires,75,reprovado,34,frequencia
+Sistemas de Informação,3,13,01/2023,259585,Luiz Fernando Moraes,94,aprovado,76,n/a
+Ciencia da Computação,2,8,01/2023,425066,Brenda Costa,91,reprovado,42,frequencia
+Engenharia de Computação,1,2,02/2024,606251,Luiz Gustavo Casa Grande,92,aprovado,97,n/a
+Jogos Digitais,4,19,02/2022,125145,Mateus Pires,77,aprovado,89,n/a
+Ciencia da Computação,2,8,02/2024,586334,Dr. Igor Nunes,81,reprovado,64,frequencia
+Sistemas de Informação,3,11,01/2024,220887,Sr. Matheus Gonçalves,75,aprovado,99,n/a
+Ciencia da Computação,2,10,01/2022,814754,Cecília Teixeira,80,aprovado,82,n/a
+Engenharia de Computação,1,4,02/2023,327226,Dr. Guilherme Câmara,38,reprovado,84,nota
+Engenharia de Computação,1,2,01/2024,870517,Sr. Matheus Martins,25,reprovado,90,nota
+Sistemas de Informação,3,13,02/2023,335612,Rafaela da Costa,86,aprovado,96,n/a
+Engenharia de Computação,1,3,01/2023,577040,Srta. Julia Pimenta,99,aprovado,96,n/a
+Jogos Digitais,4,16,02/2023,128123,Murilo Rodrigues,71,reprovado,62,frequencia
+Jogos Digitais,4,18,02/2024,321254,Dr. Gabriel Moraes,88,aprovado,92,n/a
+Tecnologo Rede Digitais,5,22,02/2024,738011,Sr. Heitor da Cunha,73,aprovado,94,n/a
+Jogos Digitais,4,18,02/2022,928198,Davi Miguel Macedo,45,reprovado,88,nota
+Engenharia de Computação,1,3,02/2022,430777,Manuella Leão,79,aprovado,90,n/a
+Engenharia de Computação,1,4,01/2022,384686,Bento da Conceição,84,reprovado,38,frequencia
+Tecnologo Rede Digitais,5,23,01/2024,151287,Rhavi Silva,40,reprovado,74,frequencia
+Sistemas de Informação,3,12,01/2024,993278,Srta. Maria Alice da Cruz,17,reprovado,30,frequencia
+Engenharia de Computação,1,4,02/2023,867707,Sr. Anthony Novaes,91,aprovado,90,n/a
+Engenharia de Computação,1,2,01/2022,311335,Bianca Duarte,62,reprovado,11,frequencia
+Engenharia de Computação,1,3,01/2023,752678,Vitória Fernandes,70,aprovado,88,n/a
+Jogos Digitais,4,18,02/2023,440106,Daniel Martins,94,aprovado,90,n/a
+Tecnologo Rede Digitais,5,24,01/2024,749928,Juliana Aparecida,23,reprovado,97,nota
+Engenharia de Computação,1,1,01/2024,715045,Maria Clara Marques,34,reprovado,42,frequencia
+Sistemas de Informação,3,14,01/2022,687636,Marcelo Araújo,40,reprovado,76,nota
+Jogos Digitais,4,17,01/2023,213422,Pedro Lucas Teixeira,72,aprovado,76,n/a
+Sistemas de Informação,3,11,02/2022,855173,Kamilly Cunha,58,reprovado,15,frequencia
+Ciencia da Computação,2,9,01/2023,551271,Helena Carvalho,1,reprovado,70,frequencia
+Sistemas de Informação,3,12,02/2024,760732,Zoe Novaes,68,reprovado,60,frequencia
+Ciencia da Computação,2,9,02/2022,116190,Gael Ferreira,95,aprovado,98,n/a
+Sistemas de Informação,3,11,01/2022,597392,Dom Novais,98,aprovado,82,n/a
+Ciencia da Computação,2,7,02/2024,745819,Ana Vitória Rodrigues,91,reprovado,73,frequencia
+Jogos Digitais,4,16,02/2024,494077,Maysa Castro,92,reprovado,35,frequencia
+Sistemas de Informação,3,13,02/2022,575833,Arthur Pacheco,90,aprovado,100,n/a
+Engenharia de Computação,1,5,02/2023,721712,João Novaes,8,reprovado,72,frequencia
+Ciencia da Computação,2,10,01/2023,667347,Bella Araújo,97,reprovado,52,frequencia
+Engenharia de Computação,1,2,02/2024,445237,Luana Vieira,76,aprovado,91,n/a
+Engenharia de Computação,1,5,02/2023,511762,Júlia Correia,51,reprovado,85,nota
+Ciencia da Computação,2,9,02/2024,215485,Theo Costa,15,reprovado,95,nota
+Tecnologo Rede Digitais,5,24,02/2024,125588,Clarice da Paz,37,reprovado,92,nota
+Ciencia da Computação,2,9,01/2023,277491,Nicole Teixeira,88,aprovado,75,n/a
+Tecnologo Rede Digitais,5,21,02/2024,891427,Yan Barbosa,86,reprovado,48,frequencia
+Ciencia da Computação,2,9,01/2022,418074,Dr. Raul Costa,93,aprovado,95,n/a
+Engenharia de Computação,1,3,01/2024,691176,Heloísa Borges,6,reprovado,32,frequencia
+Tecnologo Rede Digitais,5,25,01/2024,659220,Dr. Luan Machado,83,reprovado,18,frequencia
+Engenharia de Computação,1,4,02/2024,718931,Laís Mendonça,87,reprovado,44,frequencia
+Jogos Digitais,4,17,02/2024,649439,Ester Mendonça,95,aprovado,91,n/a
+Engenharia de Computação,1,3,01/2024,268305,Bruna Souza,94,reprovado,72,frequencia
+Tecnologo Rede Digitais,5,25,02/2022,193291,Emilly Melo,15,reprovado,94,nota
+Sistemas de Informação,3,11,02/2022,271846,Sofia Marques,84,aprovado,76,n/a
+Sistemas de Informação,3,15,02/2022,489547,Nathan Novaes,74,reprovado,14,frequencia
+Ciencia da Computação,2,6,02/2023,923680,Vicente Nunes,83,reprovado,72,frequencia
+Engenharia de Computação,1,3,01/2023,257977,Luiz Gustavo Macedo,83,aprovado,92,n/a
+Jogos Digitais,4,20,02/2023,751343,Arthur Ribeiro,47,reprovado,79,nota
+Jogos Digitais,4,19,02/2024,325429,Evelyn Caldeira,84,reprovado,73,frequencia
+Sistemas de Informação,3,15,02/2024,750038,José Pedro Martins,21,reprovado,92,nota
+Engenharia de Computação,1,4,01/2022,733330,Amanda Pacheco,51,reprovado,71,frequencia
+Engenharia de Computação,1,2,02/2024,191320,Liz Câmara,92,reprovado,67,frequencia
+Sistemas de Informação,3,11,01/2022,285610,Luiz Miguel Pires,64,reprovado,59,frequencia
+Jogos Digitais,4,17,01/2024,914995,Ana Sophia Nunes,94,reprovado,71,frequencia
+Tecnologo Rede Digitais,5,23,02/2023,425854,Levi Cassiano,11,reprovado,0,frequencia
+Engenharia de Computação,1,3,01/2023,894816,Maria Isis Nunes,72,reprovado,7,frequencia
+Ciencia da Computação,2,6,01/2024,927622,Anna Liz Ferreira,96,aprovado,99,n/a
+Tecnologo Rede Digitais,5,21,01/2024,213463,Daniel Casa Grande,15,reprovado,71,frequencia
+Jogos Digitais,4,20,01/2023,834626,Lucca Sá,88,reprovado,19,frequencia
+Ciencia da Computação,2,8,01/2023,423662,Benjamin Pastor,81,reprovado,74,frequencia
+Engenharia de Computação,1,4,02/2022,703006,Oliver Fonseca,88,aprovado,93,n/a
+Tecnologo Rede Digitais,5,24,01/2023,670893,Liam Camargo,55,reprovado,76,nota
+Sistemas de Informação,3,13,02/2022,334603,Benicio Freitas,31,reprovado,97,nota
+Engenharia de Computação,1,1,01/2022,256485,Rodrigo Nunes,77,reprovado,37,frequencia
+Tecnologo Rede Digitais,5,23,02/2024,865484,Dr. Emanuel da Mota,87,reprovado,10,frequencia
+Engenharia de Computação,1,5,01/2023,203718,Luna Oliveira,17,reprovado,90,nota
+Jogos Digitais,4,17,01/2023,476709,Stella da Cruz,12,reprovado,27,frequencia
+Tecnologo Rede Digitais,5,24,02/2023,223849,Helena Castro,91,reprovado,72,frequencia
+Ciencia da Computação,2,10,02/2023,971517,Nicolas da Paz,2,reprovado,75,nota
+Ciencia da Computação,2,9,02/2024,504526,Sr. Antony Novaes,75,aprovado,78,n/a
+Jogos Digitais,4,19,02/2024,890518,Sr. Erick Pires,79,aprovado,98,n/a
+Ciencia da Computação,2,9,01/2024,865988,Srta. Maria Eduarda Montenegro,38,reprovado,50,frequencia
+Engenharia de Computação,1,5,01/2024,591061,Manuella Teixeira,91,reprovado,39,frequencia
+Jogos Digitais,4,18,01/2022,631355,Kevin Moura,9,reprovado,85,nota
+Sistemas de Informação,3,11,01/2022,378008,Ana Laura da Mata,72,aprovado,87,n/a
+Ciencia da Computação,2,10,02/2023,532832,Zoe Moura,16,reprovado,81,nota
+Jogos Digitais,4,19,02/2022,951885,Luan Guerra,40,reprovado,77,nota
+Tecnologo Rede Digitais,5,22,02/2024,389756,Maria Helena Barros,79,aprovado,85,n/a
+Tecnologo Rede Digitais,5,23,01/2024,503980,Bella Rodrigues,73,aprovado,91,n/a
+Tecnologo Rede Digitais,5,23,01/2024,182605,Clara Pires,88,aprovado,76,n/a
+Engenharia de Computação,1,3,01/2023,653285,Vitor Brito,83,aprovado,85,n/a
+Tecnologo Rede Digitais,5,24,01/2024,202259,André Silva,67,reprovado,41,frequencia
+Ciencia da Computação,2,6,02/2024,951173,Sra. Bruna Leão,39,reprovado,95,nota
+Ciencia da Computação,2,6,01/2024,186404,Augusto da Rosa,73,aprovado,84,n/a
+Jogos Digitais,4,20,02/2023,958594,Benício Lopes,43,reprovado,71,frequencia
+Engenharia de Computação,1,4,02/2024,909203,Anna Liz Brito,95,aprovado,87,n/a
+Engenharia de Computação,1,5,01/2023,562217,Lara Aparecida,89,reprovado,36,frequencia
+Ciencia da Computação,2,10,02/2023,506844,Emanuelly Oliveira,80,aprovado,88,n/a
+Jogos Digitais,4,16,01/2024,774785,José Abreu,77,aprovado,75,n/a
+Ciencia da Computação,2,9,01/2022,386761,Fernando Farias,56,reprovado,65,frequencia
+Jogos Digitais,4,18,01/2023,702957,Nicole Duarte,92,reprovado,62,frequencia
+Ciencia da Computação,2,10,02/2022,397177,Brayan Nogueira,84,aprovado,88,n/a
+Ciencia da Computação,2,6,01/2022,682720,Henrique Macedo,51,reprovado,45,frequencia
+Engenharia de Computação,1,2,02/2024,656696,Luana da Costa,94,aprovado,95,n/a
+Jogos Digitais,4,16,02/2023,129296,Olivia Costela,32,reprovado,75,nota
+Sistemas de Informação,3,11,02/2022,495491,Eduarda Macedo,17,reprovado,19,frequencia
+Engenharia de Computação,1,2,01/2024,182044,Eduardo Azevedo,87,aprovado,81,n/a
+Ciencia da Computação,2,6,01/2022,965963,Carolina Montenegro,12,reprovado,62,frequencia
+Engenharia de Computação,1,5,02/2022,935955,Liam Moura,38,reprovado,23,frequencia
+Jogos Digitais,4,16,02/2024,255750,Luiz Otávio Aragão,97,aprovado,97,n/a
+Jogos Digitais,4,16,01/2024,780404,Dr. Gael Pastor,90,aprovado,97,n/a
+Engenharia de Computação,1,4,02/2023,228427,Sophia Souza,53,reprovado,83,nota
+Sistemas de Informação,3,14,02/2024,551738,Murilo Moraes,95,reprovado,71,frequencia
+Tecnologo Rede Digitais,5,25,01/2024,233019,Maria Luísa da Conceição,5,reprovado,68,frequencia
+Ciencia da Computação,2,9,02/2022,822579,Maria Flor Fernandes,95,aprovado,94,n/a
+Tecnologo Rede Digitais,5,23,02/2023,548325,Ana Sophia Melo,76,aprovado,99,n/a
+Engenharia de Computação,1,5,01/2022,559251,Bianca Porto,95,aprovado,92,n/a
+Sistemas de Informação,3,15,01/2023,585615,Yago Costa,13,reprovado,78,nota
+Engenharia de Computação,1,3,02/2023,579738,Theodoro Vargas,75,reprovado,71,frequencia
+Ciencia da Computação,2,6,01/2022,714047,Théo Barbosa,76,aprovado,84,n/a
+Tecnologo Rede Digitais,5,23,02/2023,729126,Dante Costela,87,reprovado,29,frequencia
+Jogos Digitais,4,16,02/2024,808312,João Vitor Cavalcanti,94,aprovado,83,n/a
+Ciencia da Computação,2,7,01/2022,134899,Enzo Gabriel Cunha,46,reprovado,98,nota
+Ciencia da Computação,2,9,02/2024,140449,Cecília Martins,20,reprovado,62,frequencia
+Jogos Digitais,4,18,01/2022,506745,Ana Clara Azevedo,100,aprovado,82,n/a
+Engenharia de Computação,1,4,01/2022,659802,Dr. Isaque Freitas,87,aprovado,77,n/a
+Tecnologo Rede Digitais,5,25,02/2022,519039,Maria Isis Fogaça,71,aprovado,91,n/a
+Ciencia da Computação,2,8,02/2023,213458,Srta. Zoe Cunha,94,aprovado,94,n/a
+Tecnologo Rede Digitais,5,24,01/2023,819461,Rebeca Vieira,94,aprovado,76,n/a
+Engenharia de Computação,1,5,01/2022,590291,Clarice Câmara,86,reprovado,27,frequencia
+Engenharia de Computação,1,3,01/2022,275468,Bernardo Aragão,97,reprovado,71,frequencia
+Ciencia da Computação,2,6,02/2023,111751,Joana Pereira,78,aprovado,82,n/a
+Tecnologo Rede Digitais,5,22,01/2023,911591,Stephany Fernandes,10,reprovado,67,frequencia
+Jogos Digitais,4,20,02/2022,658972,Agatha Mendonça,38,reprovado,72,frequencia
+Tecnologo Rede Digitais,5,21,02/2022,752063,Sra. Isis Jesus,96,aprovado,83,n/a
+Engenharia de Computação,1,1,02/2024,552773,Antônio Lima,100,aprovado,77,n/a
+Engenharia de Computação,1,5,02/2023,387974,Letícia Câmara,100,aprovado,95,n/a
+Jogos Digitais,4,17,01/2022,165641,Maitê Alves,81,reprovado,74,frequencia
+Sistemas de Informação,3,11,02/2024,900208,Ryan Moura,92,aprovado,78,n/a
+Ciencia da Computação,2,7,01/2024,693479,Guilherme Vasconcelos,85,aprovado,87,n/a
+Tecnologo Rede Digitais,5,21,01/2024,139828,Sra. Lavínia Sales,79,reprovado,71,frequencia
+Tecnologo Rede Digitais,5,22,02/2024,115893,Sra. Sara Campos,33,reprovado,73,frequencia
+Tecnologo Rede Digitais,5,21,02/2022,999582,Ravi Caldeira,90,reprovado,42,frequencia
+Tecnologo Rede Digitais,5,25,02/2023,721740,Melina Fernandes,72,aprovado,95,n/a
+Sistemas de Informação,3,14,02/2022,282471,Matheus Aparecida,89,aprovado,82,n/a
+Jogos Digitais,4,17,01/2023,188744,Dr. Gael Henrique Garcia,80,aprovado,97,n/a
+Tecnologo Rede Digitais,5,21,01/2023,916129,Maitê Correia,60,exame_especial,93,n/a
+Engenharia de Computação,1,2,01/2024,191469,Benício Vieira,75,aprovado,84,n/a
+Jogos Digitais,4,16,02/2022,959252,Rafael Campos,78,aprovado,87,n/a
+Ciencia da Computação,2,9,02/2024,917171,Sophia Caldeira,34,reprovado,81,nota
+Ciencia da Computação,2,6,02/2023,346302,Sr. Otávio Ribeiro,93,aprovado,81,n/a
+Sistemas de Informação,3,12,02/2023,671869,Pietra Monteiro,98,aprovado,75,n/a
+Jogos Digitais,4,20,01/2024,322144,Luara Brito,77,reprovado,74,frequencia
+Jogos Digitais,4,16,01/2022,197834,Vitor Gabriel Monteiro,21,reprovado,82,nota
+Engenharia de Computação,1,5,01/2022,946330,Davi Alves,74,aprovado,93,n/a
+Ciencia da Computação,2,6,02/2024,247278,Maya Guerra,61,reprovado,28,frequencia
+Ciencia da Computação,2,10,02/2024,586818,Maria Flor Santos,82,aprovado,82,n/a
+Jogos Digitais,4,20,01/2024,959646,Sra. Alícia Andrade,89,reprovado,5,frequencia
+Engenharia de Computação,1,1,02/2024,481760,Alícia Nascimento,65,reprovado,33,frequencia
+Jogos Digitais,4,20,01/2023,497883,Ana Gonçalves,100,reprovado,41,frequencia
+Tecnologo Rede Digitais,5,22,02/2022,476653,Luiz Gustavo da Mota,89,aprovado,79,n/a
+Jogos Digitais,4,17,01/2024,826557,Joana Fernandes,27,reprovado,71,frequencia
+Jogos Digitais,4,18,02/2023,244023,Maria Luiza Gonçalves,78,aprovado,83,n/a
+Jogos Digitais,4,20,01/2023,207188,Marcos Vinicius Macedo,92,reprovado,65,frequencia
+Engenharia de Computação,1,2,02/2022,201682,Maria Isis Castro,85,aprovado,85,n/a
+Ciencia da Computação,2,10,02/2024,548094,Aylla Vargas,78,aprovado,92,n/a
+Tecnologo Rede Digitais,5,23,02/2023,944589,Raquel Moraes,99,reprovado,27,frequencia
+Ciencia da Computação,2,7,02/2024,595053,Marina Camargo,38,reprovado,83,nota
+Tecnologo Rede Digitais,5,24,02/2023,500659,Sr. Arthur Lopes,96,reprovado,8,frequencia
+Sistemas de Informação,3,11,02/2023,207413,Lucas Gabriel Alves,42,reprovado,78,nota
+Engenharia de Computação,1,4,02/2024,907350,Rafaela Campos,95,aprovado,94,n/a
+Ciencia da Computação,2,6,02/2023,246662,Heitor Porto,94,aprovado,81,n/a
+Jogos Digitais,4,18,02/2022,202811,Sr. Felipe Almeida,58,reprovado,9,frequencia
+Ciencia da Computação,2,8,02/2022,771453,Raquel Martins,47,reprovado,24,frequencia
+Ciencia da Computação,2,8,01/2022,329889,Arthur Gabriel Sales,38,reprovado,83,nota
+Engenharia de Computação,1,4,02/2023,531938,Aylla da Luz,71,aprovado,89,n/a
+Sistemas de Informação,3,15,01/2024,963278,João Guilherme Fogaça,88,reprovado,12,frequencia
+Engenharia de Computação,1,3,01/2022,876805,Laís Borges,83,reprovado,70,frequencia
+Ciencia da Computação,2,6,02/2022,549915,Davi Miguel Câmara,20,reprovado,26,frequencia
+Jogos Digitais,4,18,02/2022,348563,Ana Luiza Araújo,99,reprovado,13,frequencia
+Ciencia da Computação,2,9,02/2022,289845,Bento Leão,38,reprovado,99,nota
+Sistemas de Informação,3,11,02/2023,598120,Sr. Juan Lima,73,reprovado,20,frequencia
+Jogos Digitais,4,16,01/2023,826753,Manuela Cavalcante,52,reprovado,93,nota
+Tecnologo Rede Digitais,5,22,01/2024,927911,Theodoro da Cunha,95,aprovado,99,n/a
+Engenharia de Computação,1,2,02/2023,240344,Lucas Borges,92,aprovado,91,n/a
+Sistemas de Informação,3,13,01/2023,667164,Júlia Marques,74,aprovado,76,n/a
+Sistemas de Informação,3,15,01/2022,205317,João da Paz,83,reprovado,64,frequencia
+Ciencia da Computação,2,6,01/2022,978104,Dr. Thomas Duarte,72,reprovado,16,frequencia
+Ciencia da Computação,2,10,01/2022,574807,Laura Mendes,98,aprovado,92,n/a
+Engenharia de Computação,1,2,01/2024,567840,Vicente Borges,57,reprovado,53,frequencia
+Ciencia da Computação,2,6,02/2024,100971,Srta. Luna Araújo,74,reprovado,48,frequencia
+Sistemas de Informação,3,11,01/2022,296927,Sarah Costela,75,reprovado,17,frequencia
+Jogos Digitais,4,18,02/2022,438945,Augusto Ferreira,98,reprovado,34,frequencia
+Sistemas de Informação,3,15,01/2022,750945,Sra. Luna da Cruz,64,reprovado,46,frequencia
+Engenharia de Computação,1,1,01/2023,769665,Paulo Costela,3,reprovado,72,frequencia
+Ciencia da Computação,2,6,01/2023,993855,Rafael Macedo,91,reprovado,73,frequencia
+Jogos Digitais,4,18,01/2024,143953,Maria Júlia Nunes,31,reprovado,42,frequencia
+Sistemas de Informação,3,13,02/2022,264467,Matheus Gonçalves,77,aprovado,87,n/a
+Tecnologo Rede Digitais,5,24,02/2023,446655,Dr. Samuel Macedo,61,reprovado,27,frequencia
+Jogos Digitais,4,18,02/2023,249795,Renan Dias,99,reprovado,18,frequencia
+Ciencia da Computação,2,7,02/2023,312573,Diego Pires,77,reprovado,71,frequencia

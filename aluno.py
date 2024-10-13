@@ -12,6 +12,7 @@ class Aluno:
                  ,  cpf
                  ,  data_nascimento
                  ,  email
+                 ,  telefone
                  ,  endereco_cidade
                  ,  endereco_estado
                  ,  curso_matricula_aluno
@@ -29,13 +30,17 @@ class Aluno:
         self.cpf                                = cpf
         self.data_nascimento                    = data_nascimento
         self.email                              = email
+        self.telefone                           = telefone
         self.endereco_cidade                    = endereco_cidade
         self.endereco_estado                    = endereco_estado
         self.curso_matricula_aluno              = curso_matricula_aluno
         self.curso_codigo                       = curso_codigo
         self.curso_data_ingresso                = curso_data_ingresso
         self.curso_data_prevista_conclusao      = curso_data_prevista_conclusao
-        self.curso_data_conclusao               = curso_data_conclusao
+        if curso_data_conclusao == None:
+            self.curso_data_conclusao           = curso_data_prevista_conclusao
+        else:
+            self.curso_data_conclusao           = curso_data_conclusao
         self.curso_situacao_matricula           = curso_situacao_matricula
 
     @staticmethod
@@ -43,11 +48,11 @@ class Aluno:
 
         localizacao = 'pt-BR'
         fake = Faker(locale=localizacao)
-        sexo = random.choice(['m', 'f'])
         lista = []
 
         for _ in range(quantidade):
 
+            sexo = random.choice(['m', 'f'])[0]
             lista.append(
                 Aluno(
                         nome_completo=fake.name_male() if sexo == 'm' else fake.name_female()
@@ -57,6 +62,7 @@ class Aluno:
                             start_date=datetime(1980, 1, 1), end_date=datetime(2006, 1, 1)
                         )
                     ,   email=fake.email()
+                    ,   telefone=f'+55 {random.randint(10, 95)} 9{random.randint(1000, 9999)}-{random.randint(1000, 9999)}'
                     ,   endereco_cidade=fake.city()
                     ,   endereco_estado=fake.state()
                     ,   curso_matricula_aluno=fake.random_number(digits=6, fix_len=True)
