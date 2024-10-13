@@ -4,12 +4,42 @@ from disciplina import Disciplina
 from pprint import pprint
 import random
 import pandas as pd
-import csv
+import os
 
-def gerar_csv_com_pandas(nome_arquivo, dados, colunas):
-    """Função para gerar arquivos CSV usando pandas."""
-    df = pd.DataFrame(dados, columns=colunas)
-    df.to_csv(nome_arquivo, index=False, encoding='utf-8')
+def salvar_csv_lista(lista, nome_arquivo):
+    # Verifica se a lista está vazia
+    if not lista:
+        print("A lista está vazia, nada para salvar.")
+        return
+    
+    # Verifica se o primeiro item da lista é um dicionário
+    if isinstance(lista[0], dict):
+        # Cria um DataFrame diretamente da lista de dicionários
+        df = pd.DataFrame(lista)
+    else:
+        # Extrai as propriedades dinamicamente do primeiro objeto
+        propriedades = vars(lista[0]).keys()
+        
+        # Cria uma lista de dicionários com as propriedades de cada objeto
+        dados = [{prop: getattr(obj, prop) for prop in propriedades} for obj in lista]
+        
+        # Cria o DataFrame a partir dessa lista de dicionários
+        df = pd.DataFrame(dados)
+
+    # Define o caminho da pasta "arquivos"
+    caminho_pasta = os.path.join(os.getcwd(), "arquivos")
+    
+    # Verifica se a pasta "arquivos" existe, caso contrário, cria a pasta
+    if not os.path.exists(caminho_pasta):
+        os.makedirs(caminho_pasta)
+    
+    # Define o caminho completo do arquivo CSV
+    caminho_arquivo = os.path.join(caminho_pasta, f"{nome_arquivo}")
+    
+    # Salva o DataFrame em um arquivo CSV com BOM para evitar problemas de encoding no Excel
+    df.to_csv(caminho_arquivo, index=False, encoding='utf-8-sig')
+    
+    print(f"DataFrame salvo com sucesso em: {caminho_arquivo}")
 
 lista_cursos_disponiveis = Curso.busca_lista_cursos_disponiveis()
 lista_disciplinas_disponiveis = Disciplina.busca_lista_disciplinas_disponiveis()
@@ -67,8 +97,14 @@ for aluno in lista_aluno:
         })
 
 
-pprint(lista_cursos_disponiveis)
-pprint(lista_disciplinas_disponiveis)
-pprint(lista_aluno)
-pprint(lista_relacionamento_cursos_disciplinas_alunos)
-pprint(lista_atividades_alunos)
+df = pd.DataFrame({
+    curso.curso_nome: [curso.curso_nome for curso in lista_cursos_disponiveis]
+})
+
+# Criando o DataFrame dinamicamente
+salvar_csv_lista(lista_cursos_disponiveis, 'cursos.csv')
+salvar_csv_lista(lista_disciplinas_disponiveis, 'disciplinas.csv')
+salvar_csv_lista(lista_aluno, 'alunos.csv')
+salvar_csv_lista(lista_relacionamento_cursos_disciplinas_alunos, 'relacionamento_alunos_cursos_disciplinas.csv')
+salvar_csv_lista(lista_atividades_alunos, 'atividades_alunos.csv')
+
