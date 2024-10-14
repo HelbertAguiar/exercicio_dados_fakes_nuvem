@@ -11,6 +11,7 @@ class Disciplina:
                  ,  tipo
                  ,  carga_horaria_prevista
                  ,  disciplina_nome
+                 ,  lista_atividades
     ) -> None:
         """ Construtor da classe disciplina """
         self.curso_nome                 = curso_nome
@@ -21,6 +22,7 @@ class Disciplina:
         self.disciplina_nome            = disciplina_nome
         self.frequencia_minima          = 0.75 * carga_horaria_prevista
         self.nota_corte                 = 70
+        self.lista_atividades           = lista_atividades
 
     @staticmethod
     def gerar_nota_disciplina():
@@ -59,64 +61,70 @@ class Disciplina:
             carga_horaria_maxima    = curso_disponivel.carga_horaria_por_disciplina_max
 
             if curso_nome == "Engenharia de Computação":
+                lista_atividades = [
+                    {'periodo': f'{random.choice(['01', '02'])}/{random.choice(['2024', '2023', '2022'])}', 'codigo_atividade': 1, 'nome_atividade': 'exercicio' },
+                    {'periodo': f'{random.choice(['01', '02'])}/{random.choice(['2024', '2023', '2022'])}', 'codigo_atividade': 2, 'nome_atividade': 'trabalho01' },
+                    {'periodo': f'{random.choice(['01', '02'])}/{random.choice(['2024', '2023', '2022'])}', 'codigo_atividade': 3, 'nome_atividade': 'trabalho02' },
+                    {'periodo': f'{random.choice(['01', '02'])}/{random.choice(['2024', '2023', '2022'])}', 'codigo_atividade': 4, 'nome_atividade': 'avaliacao' },
+                ]
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Cálculo Diferencial e Integral'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Cálculo Diferencial e Integral', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Álgebra Linear'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Álgebra Linear', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Eletrônica Digital'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Eletrônica Digital', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Sistemas Operacionais'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Sistemas Operacionais', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Programação de Computadores'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Programação de Computadores', lista_atividades))
 
             if curso_nome == "Ciencia da Computação":
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Teoria da Computação'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Teoria da Computação', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Cálculo Diferencial e Integral'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Cálculo Diferencial e Integral', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Compiladores'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Compiladores', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Matemática Discreta'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Matemática Discreta', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Análise de Algoritmos'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Análise de Algoritmos', lista_atividades))
 
             if curso_nome == "Sistemas de Informação":
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Algoritmos e Estruturas de Dados'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Algoritmos e Estruturas de Dados', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Fundamentos de Programação'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Fundamentos de Programação', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Banco de Dados'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Banco de Dados', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Engenharia de Software'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Engenharia de Software', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Sistemas Operacionais'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Sistemas Operacionais', lista_atividades))
 
             if curso_nome == "Jogos Digitais":
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Modelagem 3D'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Modelagem 3D', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Inteligência Artificial para Jogos'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Inteligência Artificial para Jogos', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Efeitos Visuais'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Efeitos Visuais', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Jogos em Realidade Aumentada (AR) e Virtual (VR)'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Jogos em Realidade Aumentada (AR) e Virtual (VR)', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Psicologia Cognitiva Aplicada a Jogos'))
+                                random.randint(carga_horaria_minima, carga_horaria_maxima), 'Psicologia Cognitiva Aplicada a Jogos', lista_atividades))
 
             if curso_nome == "Tecnologo Rede Digitais":
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Administração de Servidores'))
+                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Administração de Servidores', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Protocolos de Redes'))
+                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Protocolos de Redes', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Gerência de Projetos de TI'))
+                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Gerência de Projetos de TI', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Redes Definidas por Software (SDN)'))
+                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Redes Definidas por Software (SDN)', lista_atividades))
                 lista.append(Disciplina(curso_nome, curso_codigo, next(id), random.choices(['teorico', 'pratico'], weights=[85,15], k=1)[0], 
-                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Cloud Computing (Computação em Nuvem)'))
+                            random.randint(carga_horaria_minima, carga_horaria_maxima), 'Cloud Computing (Computação em Nuvem)', lista_atividades))
 
         return lista
     
